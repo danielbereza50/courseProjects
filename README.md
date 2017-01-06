@@ -1,2 +1,2 @@
 # Career_Projects
-A portfolio of past school projects
+A portfolio of career projects
