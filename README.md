@@ -4,6 +4,9 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 
 Contract Work I did as a partner with Go Viral Marketing:
+
+
+
 Custom Themes:
 
 
