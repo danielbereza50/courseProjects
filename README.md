@@ -9,9 +9,16 @@ Contract Work I did as a partner with Go Viral Marketing:
 
 Custom Themes:
 
+http://goviralmarketing.com/kbm
+http://goviralmarketing.com/acw
 
 
 Customer Plugins:
+
+responsive image map plug-in for the 3 branch locations:
+http://transitionallifecounselingandconsultation.com/
+
+
 
 
 
