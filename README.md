@@ -3,8 +3,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 
 
-Contract Work I did as a partner with Go Viral Marketing:
-
+1. Contract Work I did as a partner with Go Viral Marketing:
 
 
 Custom Themes:
@@ -14,14 +13,37 @@ http://goviralmarketing.com/kbm
 http://goviralmarketing.com/acw
 
 
-Customer Plugins:
+Custom Plugins:
 
 responsive image map plug-in for the 3 branch locations:
 http://transitionallifecounselingandconsultation.com/
 
 
 
+2. Contract Work I did as a partner with Betesh Media:
 
+Custom Themes:
+Custom Plugins:
+
+3. Contract Work
+
+Custom Themes:
+Custom Plugins:
+
+4. Contract Work
+
+Custom Themes:
+Custom Plugins:
+
+5. Contract Work
+
+Custom Themes:
+Custom Plugins:
+
+6. Contract Work
+
+Custom Themes:
+Custom Plugins:
 
 
 
