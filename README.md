@@ -28,6 +28,10 @@ http://transitionallifecounselingandconsultation.com/
 
 Custom Themes:
 
+template changes to a pre-existing theme
+http://viable-edu.com/
+
+
 Custom Plugins:
 
 3. Contract Work
