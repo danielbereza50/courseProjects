@@ -13,7 +13,7 @@ http://goviralmarketing.com/kbm
 http://goviralmarketing.com/acw
 
 
-Did the responsiveness and most of the site excluding the soon to be find a doctor functionality:
+Did the responsiveness and most of the site excluding the soon to be find a doctor functionality for a corporation:
 http://goviralmarketing.com/sjfmc1/
 
 
@@ -28,7 +28,7 @@ http://transitionallifecounselingandconsultation.com/
 
 Custom Themes:
 
-template changes to a pre-existing theme
+template changes to a pre-existing theme for a small business
 http://viable-edu.com/
 
 
