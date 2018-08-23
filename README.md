@@ -35,7 +35,11 @@ http://viable-edu.com/
 
 Custom Plugins:
 
-3. Contract Work
+3. Contract Work I did as a partner with Neuro Endoceuticals
+
+affilaite marketing program I helped implement to increase sales:
+https://zenexel.com/
+
 
 Custom Themes:
 
