@@ -43,12 +43,12 @@ https://zenexel.com/
 
 
 
-2. Contract Work I did as a partner with Betesh Media:
+2. Contract Work I did as a partner with Social Loud Speaker:
 
 Custom Themes:
 
 template changes to a pre-existing theme for a small business
-http://viable-edu.com/
+http://www.livewellholistichealth.com/
 
 
 Custom Plugins:
