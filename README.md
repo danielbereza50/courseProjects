@@ -38,7 +38,9 @@ Custom Plugins:
 3. Contract Work I did as a partner with Neuro Endoceuticals
 
 Affiliate Marketing Program I helped implement to increase sales:
+
 https://zenexel.com/
+
 https://naturalhemp1000.com/
 
 
