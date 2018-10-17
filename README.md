@@ -50,6 +50,7 @@ https://naturalhemp1000.com/
 Custom Themes:
 
 template changes to a pre-existing theme for a small business
+* implemented a Bootstrap Slider
 http://www.livewellholistichealth.com/
 
 
