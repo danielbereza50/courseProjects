@@ -41,9 +41,6 @@ Affiliate Marketing Program I helped implement to increase sales:
 
 https://zenexel.com/
 
-https://naturalhemp1000.com/
-
-
 
 2. Contract Work I did as a partner with Social Loud Speaker:
 
