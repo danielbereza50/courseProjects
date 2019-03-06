@@ -19,13 +19,11 @@ the installation folder you created --> WP Content --> Plugins and drag and drop
 
 
 5.
-  PHP Mailer
-  
-  Name:
-  Version:
-  Purpose:
-  License:
-  Website:
+  Name: PHP Mailer
+  Version: 5.0.0
+  Purpose: To send emails with image attachments
+  License: LGPL
+  Website: http://sourceforge.net/projects/phpmailer
 
 6.
 
