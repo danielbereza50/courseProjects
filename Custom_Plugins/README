@@ -30,7 +30,7 @@ the installation folder you created --> WP Content --> Plugins and drag and drop
 
 
 Future Features:
-History Of sent Images
+<li>History Of sent Images</li>
 Create multiple images and make .gif
 Geotag Images
 Unit / Integration Tests
