@@ -23,11 +23,11 @@ you created --> WP Content --> Plugins and drag and drop the uncompressed master
 
 
 5.
-  Name: PHP Mailer
-  Version: 5.0.0
+  Name: Sendgrid
+  Version: 7.0.0
   Purpose: To send emails with image attachments
-  License: LGPL
-  Website: http://sourceforge.net/projects/phpmailer
+  License: MIT
+  Website: https://github.com/sendgrid/sendgrid-php
 
 6.
 
@@ -35,7 +35,7 @@ you created --> WP Content --> Plugins and drag and drop the uncompressed master
 
 Future Features:
   1. History Of sent Images - MySQL
-  2. Create multiple images and make .gif --> gif.js
+  2. Create multiple images and make gif --> gif.js
   3. Geotag Images - exif_read_data($img, 0, true); // where $img is the path to your image
   4. Unit / Integration Tests - 
 
