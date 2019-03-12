@@ -29,12 +29,6 @@ you created --> WP Content --> Plugins and drag and drop the uncompressed master
   License: MIT
   Website: https://github.com/sendgrid/sendgrid-php
   
-  Name: Swift Mailer
-  Version: 5.4.3
-  Purpose: Library To help send emails with image attachments
-  License: MIT
-  Website: https://github.com/swiftmailer/swiftmailer
-  
 
 6.
 
