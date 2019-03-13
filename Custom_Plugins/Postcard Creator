@@ -1,1 +1,45 @@
 
+
+Postcard Creator JavaScript Plugin
+
+1. I choose to develop the Post Card creator application because I always wanted to work with video streams and HTML canvas.  
+I thought this would be a good opportunity to create a plugin that fullfills all of these requirements and to create something unique and 
+helpful for Konica Minolta Business Solutions.
+
+
+2. The way in which someone can use or test my plugin is simply downloading the most recent release of 
+WordPress from https://wordpress.org/download/ onto your server, if any difficulties, here is an installation cookbook: 
+https://codex.wordpress.org/Installing_WordPress#Famous_5-Minute_Installation.  
+
+Then, login to the Dashboard --> Plugins --> Add New --> Upload Plugin --> Browse (or drag and drop here) or 
+you can FTP into the website via client software like FileZilla and click on the installation folder 
+you created --> WP Content --> Plugins and drag and drop the uncompressed master folder over to that directory.  
+
+
+3.
+
+
+4.
+
+
+5.
+  Name: Sendgrid
+  Version: 1.11.8
+  Purpose: To send emails with image attachments
+  License: MIT
+  Website: https://github.com/sendgrid/sendgrid-php
+  
+
+6.
+
+
+
+Future Features:
+  1. History Of sent Images - MySQL
+  2. Create multiple images and make gif --> gif.js
+  3. Geotag Images - exif_read_data($img, 0, true); // where $img is the path to your image
+  4. Support of Mulptiple Browsers - 
+  5. Unit / Integration Tests - 
+
+
+
