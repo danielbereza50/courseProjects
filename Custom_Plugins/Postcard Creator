@@ -35,11 +35,12 @@ you created --> WP Content --> Plugins and drag and drop the uncompressed master
 
 
 Future Features:
-  1. History Of sent Images - MySQL
-  2. Create multiple images and make gif --> gif.js
-  3. Geotag Images - exif_read_data($img, 0, true); // where $img is the path to your image
-  4. Support of Mulptiple Browsers - 
-  5. Unit / Integration Tests - 
+  1. Ability to send as an attachment
+  2. History Of sent Images - MySQL
+  3. Create multiple images and make gif --> gif.js
+  4. Geotag Images - exif_read_data($img, 0, true); // where $img is the path to your image
+  5. Support of Mulptiple Browsers - 
+  6. Unit / Integration Tests - 
 
 
 
