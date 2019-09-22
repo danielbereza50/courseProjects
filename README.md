@@ -14,8 +14,6 @@ http://k-beautymicroblading.com
 
 http://acertainwork.org 
 
-http://goviralmarketing.com/supplement-pass/
-
 http://cfbhgroup.com/
 
 http://completehomeimprovementcontractors.com/
@@ -32,6 +30,7 @@ https://imacscontrols.com/
 
 
 
+http://goviralmarketing.com/supplement-pass/
 
 Did the responsiveness and most of the site excluding the soon to be find a doctor functionality for a corporation:
 http://goviralmarketing.com/sjfmc1/
