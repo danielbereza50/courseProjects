@@ -1,7 +1,7 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
-Full Stack Engineer (MAMP) - WordPress
+<b>Full Stack Engineer (MAMP) - WordPress</b>
 - The entire WP Install can be accessed through the theme's folder for that specific website
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
@@ -25,7 +25,7 @@ https://allfinishllc.com/
 https://imacscontrols.com/
 
 
-
+<hr>
 
 
 
@@ -42,6 +42,8 @@ responsive image map plug-in for the 3 branch locations:
 http://transitionallifecounselingandconsultation.com/
 
 
+<hr>
+
 
 2. Contract Work I did as a partner with Betesh Media:
 
@@ -49,6 +51,9 @@ Custom Themes:
 
 template changes to a pre-existing theme for a small business
 http://viable-edu.com/
+
+
+<hr>
 
 
 Custom Plugins:
@@ -60,6 +65,9 @@ Affiliate Marketing Program I helped implement to increase sales:
 https://zenexel.com/
 
 
+<hr>
+
+
 2. Contract Work I did as a partner with Social Loud Speaker:
 
 Custom Themes:
@@ -68,6 +76,8 @@ template changes to a pre-existing theme for a small business
 * implemented a Bootstrap Slider
 http://www.livewellholistichealth.com/
 
+
+<hr>
 
 Custom Plugins:
 
