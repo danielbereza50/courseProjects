@@ -2,6 +2,8 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
 Full Stack Engineer (MAMP) - WordPress
+- The entire WP Install can be accessed through the theme's folder for that specific website
+- For a particular Plugin or Widget build - a directory will be specified
 
 1. Contract Work I did:
 
