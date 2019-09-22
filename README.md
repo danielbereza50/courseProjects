@@ -14,11 +14,11 @@ http://k-beautymicroblading.com
 
 http://acertainwork.org 
 
-http://cfbhgroup.com/
+https://cfbhgroup.com/
 
-http://completehomeimprovementcontractors.com/
+https://completehomeimprovementcontractors.com/
 
-http://customerfirstconstruction.com/
+https://customerfirstconstruction.com/
 
 https://allfinishllc.com/
 
