@@ -11,7 +11,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 2nd Method
 - Use the Duplicator plugin and the on screen instructions to migrate the website over locally 
 
-
+* Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
 
 
