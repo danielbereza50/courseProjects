@@ -32,8 +32,6 @@ https://imacscontrols.com/
 
 
 http://goviralmarketing.com/supplement-pass/
-
-Did the responsiveness and most of the site excluding the soon to be find a doctor functionality for a corporation:
 http://goviralmarketing.com/sjfmc1/
 
 
@@ -48,14 +46,12 @@ http://transitionallifecounselingandconsultation.com/
 
 2. Contract Work I did as a partner with Betesh Media:
 
-Custom Themes:
 
 template changes to a pre-existing theme for a small business
 http://viable-edu.com/
 
 
 <hr>
-
 
 
 3. Contract Work I did as a partner with Neuro Endoceuticals
