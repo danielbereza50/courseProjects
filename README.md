@@ -6,10 +6,12 @@ A portfolio of past projects, build instructions and platforms are specified at 
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
 
+- For a particular Plugin or Widget build - a directory will be specified in that folder
+
 2nd Method
 - Use the Duplicator plugin and the on screen instructions to migrate the website over locally 
 
-- For a particular Plugin or Widget build - a directory will be specified in that folder
+
 
 
 
