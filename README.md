@@ -8,6 +8,14 @@ A portfolio of past projects, build instructions and platforms are specified at 
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
 
+Update your db with : 
+
+UPDATE wp_options SET option_value = replace(option_value, 'http://www.example.com', 'http://localhost/test-site') WHERE option_name = 'home' OR option_name = 'siteurl';
+  
+UPDATE wp_posts SET post_content = replace(post_content, 'http://www.example.com', 'http://localhost/test-site');
+  
+UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com','http://localhost/test-site');
+
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
 2nd Method
