@@ -57,7 +57,6 @@ http://viable-edu.com/
 <hr>
 
 
-Custom Plugins:
 
 3. Contract Work I did as a partner with Neuro Endoceuticals
 
@@ -71,7 +70,6 @@ https://zenexel.com/
 
 2. Contract Work I did as a partner with Social Loud Speaker:
 
-Custom Themes:
 
 template changes to a pre-existing theme for a small business
 * implemented a Bootstrap Slider
@@ -80,7 +78,6 @@ http://www.livewellholistichealth.com/
 
 <hr>
 
-Custom Plugins:
 
 
 
