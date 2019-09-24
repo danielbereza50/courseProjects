@@ -27,9 +27,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 Custom Themes:
 
-http://k-beautymicroblading.com
+http://k-beautymicroblading.com/
 
-http://acertainwork.org 
+http://acertainwork.org/
 
 https://cfbhgroup.com/
 
