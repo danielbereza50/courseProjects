@@ -29,9 +29,10 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 Custom Themes:
 
+Company:
 https://www.edgeadvertisingsolutions.com/
 
-:
+-
 
 https://cfbhgroup.com/
 
@@ -51,9 +52,10 @@ https://dbtoftowson.com/
 
 <hr>
 
+Company:
 https://goviralmarketing.com/
 
-:
+-
 
 http://k-beautymicroblading.com/
 
