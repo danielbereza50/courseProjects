@@ -29,6 +29,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 Custom Themes:
 
+
 Company:
 https://www.edgeadvertisingsolutions.com/
 
@@ -74,8 +75,7 @@ http://transitionallifecounselingandconsultation.com/
 
 <hr>
 
-
-2. Company:
+Company:
 
 https://beteshmedia.com/
 
@@ -86,8 +86,7 @@ http://viable-edu.com/
 
 <hr>
 
-
-3. Company:
+Company:
 
 Neuro Endoceuticals
 
@@ -98,8 +97,7 @@ https://zenexel.com/
 
 <hr>
 
-
-2. Company:
+Company:
 
 SocialLoud Speaker - Closed
 
