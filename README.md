@@ -77,6 +77,8 @@ http://transitionallifecounselingandconsultation.com/
 
 Company:
 
+Betesh Media
+
 https://beteshmedia.com/
 
 
@@ -88,7 +90,7 @@ http://viable-edu.com/
 
 Company:
 
-Neuro Endoceuticals
+Neuro Endoceuticals, LLC
 
 Affiliate Marketing Program I helped implement to increase sales:
 
