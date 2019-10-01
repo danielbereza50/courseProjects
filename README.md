@@ -75,7 +75,8 @@ http://transitionallifecounselingandconsultation.com/
 <hr>
 
 
-2. Contract Work I did as a partner with Betesh Media:
+2. Company:
+https://beteshmedia.com/
 
 
 template changes to a pre-existing theme for a small business
@@ -95,7 +96,9 @@ https://zenexel.com/
 <hr>
 
 
-2. Contract Work I did as a partner with Social Loud Speaker:
+2. Company:
+
+Social Loud Speaker - Closed
 
 
 template changes to a pre-existing theme for a small business
