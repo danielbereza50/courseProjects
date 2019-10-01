@@ -86,7 +86,9 @@ http://viable-edu.com/
 <hr>
 
 
-3. Contract Work I did as a partner with Neuro Endoceuticals
+3. Company:
+
+Neuro Endoceuticals
 
 Affiliate Marketing Program I helped implement to increase sales:
 
@@ -98,7 +100,7 @@ https://zenexel.com/
 
 2. Company:
 
-Social Loud Speaker - Closed
+SocialLoud Speaker - Closed
 
 
 template changes to a pre-existing theme for a small business
