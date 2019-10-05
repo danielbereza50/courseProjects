@@ -64,6 +64,8 @@ https://goviralmarketing.com/
 
 http://k-beautymicroblading.com/
 
+http://transitionallifecounselingandconsultation.com/
+
 http://acertainwork.org/
 
 http://goviralmarketing.com/supplement-pass/
@@ -71,10 +73,6 @@ http://goviralmarketing.com/supplement-pass/
 http://goviralmarketing.com/sjfmc1/
 
 
-Custom Plugins:
-
-responsive image map plug-in for the 3 branch locations:
-http://transitionallifecounselingandconsultation.com/
 
 
 <hr>
