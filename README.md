@@ -27,7 +27,11 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 1. Contract Work I did:
 
 
-Custom Themes:
+Custom Themes + SEO work via
+1. https://gtmetrix.com/
+2. https://www.syncedlocalmarketing.com/
+
+:
 
 
 Company:
