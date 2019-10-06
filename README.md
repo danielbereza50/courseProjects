@@ -35,6 +35,7 @@ Custom Themes + SEO work via
 
 
 Company:
+EDG eAdvertising Solutions
 https://www.edgeadvertisingsolutions.com/
 
 :
@@ -58,6 +59,7 @@ https://dbtoftowson.com/
 <hr>
 
 Company:
+Go Viral Marketing 
 https://goviralmarketing.com/
 
 :
@@ -89,6 +91,8 @@ http://puertovallartausa.com/
 https://wolcottct.org/
 http://www.foodsafetyconsults.com/
 https://www.ckmanningmd.com/
+
+custom themes:
 http://vistapak.com/
 
 
