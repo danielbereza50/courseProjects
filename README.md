@@ -35,7 +35,9 @@ Custom Themes + SEO work via
 
 
 Company:
+
 EDG eAdvertising Solutions
+
 https://www.edgeadvertisingsolutions.com/
 
 :
@@ -59,7 +61,9 @@ https://dbtoftowson.com/
 <hr>
 
 Company:
+
 Go Viral Marketing 
+
 https://goviralmarketing.com/
 
 :
