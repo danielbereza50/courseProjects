@@ -5,6 +5,8 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
+* uses port 8889
+
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
 
