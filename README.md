@@ -9,6 +9,8 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * Recommend a CLI over a GUI
 
+* 3 servers - (Apache, MySQL, Cloud)
+
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
 
