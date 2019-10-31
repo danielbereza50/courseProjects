@@ -9,7 +9,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * Recommend a CLI over a GUI
 
-* 3 servers - (Apache, MySQL, Cloud)
+* 2 servers - (Apache, MySQL)
 
 
 1st method
