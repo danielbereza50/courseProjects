@@ -89,7 +89,7 @@ http://goviralmarketing.com/supplement-pass/
 
 Company:
 
-4 Biz Graphics, LLC
+4Biz Graphics, LLC
 
 http://www.4bizgraphics.com/
 
