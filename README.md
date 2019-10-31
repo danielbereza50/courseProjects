@@ -163,8 +163,11 @@ http://www.livewellholistichealth.com/
 3. Contract Work I did as a partner with
 
 Custom Themes:
+
 Custom Plugins:
+
 Graphic Design work:
+
 Marketing Work:
 
 
