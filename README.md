@@ -11,7 +11,6 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * 3 servers - (Apache, MySQL, Cloud)
 
-* 
 
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server via downlaod of the master here on git and connect the wp-config for the MySQL db
