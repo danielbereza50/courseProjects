@@ -41,6 +41,7 @@ Custom Themes + SEO work via
 Company:
 
 EDG eAdvertising Solutions
+Team EDG
 
 https://www.edgeadvertisingsolutions.com/
 
@@ -67,6 +68,7 @@ https://fishercustomdesigns.com/
 Company:
 
 Go Viral Marketing 
+Team GVM
 
 https://goviralmarketing.com/
 
@@ -90,6 +92,7 @@ http://goviralmarketing.com/supplement-pass/
 Company:
 
 4Biz Graphics, LLC
+Team 4Biz
 
 http://www.4bizgraphics.com/
 
