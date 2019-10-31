@@ -42,7 +42,7 @@ Company:
 
 EDG eAdvertising Solutions
 
-Team EDG
+- Team EDG
 
 https://www.edgeadvertisingsolutions.com/
 
@@ -70,7 +70,7 @@ Company:
 
 Go Viral Marketing 
 
-Team GVM
+- Team GVM
 
 https://goviralmarketing.com/
 
@@ -95,7 +95,7 @@ Company:
 
 4Biz Graphics, LLC
 
-Team 4Biz
+- Team 4Biz
 
 http://www.4bizgraphics.com/
 
