@@ -11,8 +11,10 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * 3 servers - (Apache, MySQL, Cloud)
 
+* 
+
 1st method
-- The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
+- The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server via downlaod of the master here on git and connect the wp-config for the MySQL db
 
 Import the .sql file in the root directory of the theme's folder, and then import via phpmyadmin (Linux OS) and file upload, zip format perferred
 
