@@ -166,9 +166,9 @@ Custom Themes:
 
 Custom Plugins:
 
-Graphic Design work:
+Graphic Design:
 
-Marketing Work:
+Marketing:
 
 
 
