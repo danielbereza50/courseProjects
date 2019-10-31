@@ -27,8 +27,6 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
-2nd Method
-- Use the Duplicator plugin and the on screen instructions to migrate the website over locally using the installer.php script
 
 
 1. Contract Work I did:
