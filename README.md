@@ -7,10 +7,12 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * uses port 8889
 
+* Recommend a CLI over a GUI
+
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server and connect the wp-config for the MySQL db
 
-Import the .sql file in the root directory of the theme's folder, and then import via phpmyadmin and file upload, zip format perferred
+Import the .sql file in the root directory of the theme's folder, and then import via phpmyadmin (Linux OS) and file upload, zip format perferred
 
 Update your db with : 
 
