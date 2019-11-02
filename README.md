@@ -79,11 +79,11 @@ https://goviralmarketing.com/
 
 http://transitionallifecounselingandconsultation.com/
 
+http://newsite2.sjfmc.org/
+
 http://k-beautymicroblading.com/
 
 http://acertainwork.org/
-
-http://newsite2.sjfmc.org/
 
 http://goviralmarketing.com/supplement-pass/
 
