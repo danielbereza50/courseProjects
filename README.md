@@ -7,7 +7,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * uses port 8889
 
-* Recommend a CLI over a GUI
+* Recommend the WP-CLI over a GUI
 
 * 2 servers - (Apache, MySQL)
 
