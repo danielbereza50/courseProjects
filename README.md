@@ -44,7 +44,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 
 
-* To install a library, cd into your theme's folder and use composer
+* To install a library, cd into your theme's folder and use composer using the WP-CLI
 
 1. Contract Work I did:
 
