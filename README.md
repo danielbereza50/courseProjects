@@ -42,8 +42,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
 
-* To install a library, cd into your theme's folder and use composer
 
+
+* To install a library, cd into your theme's folder and use composer
 
 1. Contract Work I did:
 
