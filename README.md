@@ -8,6 +8,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 * Recommend the WP-CLI over a GUI
 
 * Documentation: https://wp-cli.org/
+* https://developer.wordpress.org/cli/commands/
 
 * note - IP address followed by port number for MySQL server in config
 
