@@ -11,7 +11,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * note - IP address followed by port number for MySQL server in config
 
-example 
+Example: 
 
 /** MySQL hostname */
 
