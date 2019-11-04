@@ -7,6 +7,15 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * Recommend the WP-CLI over a GUI
 
+* Documentation: https://wp-cli.org/
+
+* note - IP address followed by port number for MySQL server in config
+
+example 
+
+/** MySQL hostname */
+define( 'DB_HOST', '127.0.0.1:8889' );
+
 * 2 servers - (Apache, MySQL)
 
 * Apache uses port 80
