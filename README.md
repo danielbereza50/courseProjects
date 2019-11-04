@@ -14,6 +14,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 example 
 
 /** MySQL hostname */
+
 define( 'DB_HOST', '127.0.0.1:8889' );
 
 * 2 servers - (Apache, MySQL)
