@@ -5,17 +5,31 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
-* uses port 8889
+* Recommend the WP-CLI over a GUI
 
-* Recommend a CLI over a GUI
+* Documentation: https://wp-cli.org/
+* https://developer.wordpress.org/cli/commands/
+
+* note - IP address followed by port number for MySQL server in config
+
+Example: 
+
+/** MySQL hostname */
+
+define( 'DB_HOST', '127.0.0.1:8889' );
 
 * 2 servers - (Apache, MySQL)
 
+* Apache uses port 80
+
+* Nginx uses port 8888
+
+* MySQL uses port 8889
 
 1st method
 - The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server via download of the master here on git and connect the wp-config for the MySQL db
 
-Import the .sql file from the root directory of the theme's folder, and then import via phpmyadmin (Linux OS) and file upload, zip format perferred
+Import the .sql file from the root directory of the theme's folder, and then import via phpmyadmin (Unix Socket) and file upload, zip format perferred
 
 Update your db with : 
 
@@ -28,6 +42,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
 
+
+
+* To install a library, cd into your theme's folder and use composer using the WP-CLI
 
 1. Contract Work I did:
 
@@ -77,13 +94,13 @@ https://goviralmarketing.com/
 
 :
 
+http://newsite2.sjfmc.org/
+
 http://transitionallifecounselingandconsultation.com/
 
 http://k-beautymicroblading.com/
 
 http://acertainwork.org/
-
-http://newsite2.sjfmc.org/
 
 http://goviralmarketing.com/supplement-pass/
 
@@ -107,11 +124,12 @@ http://puertovallartausa.com/
 
 https://wolcottct.org/
 
+http://stanleywhitman.com/
+
 http://www.foodsafetyconsults.com/
 
 https://www.ckmanningmd.com/
 
-http://stanleywhitman.com/
 
 custom themes:
 
