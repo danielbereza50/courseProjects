@@ -157,6 +157,7 @@ Neuro Endoceuticals, LLC
 
 Affiliate Marketing Program I helped implement to increase sales:
 
+
 https://zenexel.com/
 
 
@@ -169,6 +170,7 @@ SocialLoud Speaker - Closed
 
 template changes to a pre-existing theme for a small business
 * implemented a Bootstrap Slider
+
 http://www.livewellholistichealth.com/
 
 
