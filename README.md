@@ -124,11 +124,12 @@ http://puertovallartausa.com/
 
 https://wolcottct.org/
 
+http://stanleywhitman.com/
+
 http://www.foodsafetyconsults.com/
 
 https://www.ckmanningmd.com/
 
-http://stanleywhitman.com/
 
 custom themes:
 
