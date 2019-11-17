@@ -27,7 +27,17 @@ define( 'DB_HOST', '127.0.0.1:8889' );
 * MySQL uses port 8889
 
 1st method
-- The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server via download of the master here on git and connect the wp-config for the MySQL db
+- The entire WP Install can be accessed through the theme's folder for that specific website - just install on the server via download of the master here on git and connect the wp-config for the MySQL db.  Create a new database and user with it's own username and password and place that in the tewo "define statements" in the config.
+
+example:
+
+define( 'DB_NAME', 'the_db_name' );
+
+/** MySQL database username */
+define( 'DB_USER', 'the_user_name' );
+
+/** MySQL database password */
+define( 'DB_PASSWORD', 'the_user_password' );
 
 Import the .sql file from the root directory of the theme's folder, and then import via phpmyadmin (Unix Socket) and file upload, zip format perferred
 
