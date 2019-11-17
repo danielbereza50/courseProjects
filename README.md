@@ -34,9 +34,11 @@ example:
 define( 'DB_NAME', 'the_db_name' );
 
 /** MySQL database username */
+
 define( 'DB_USER', 'the_user_name' );
 
 /** MySQL database password */
+
 define( 'DB_PASSWORD', 'the_user_password' );
 
 Import the .sql file from the root directory of the theme's folder, and then import via phpmyadmin (Unix Socket) and file upload, zip format perferred
@@ -157,7 +159,18 @@ http://vistapak.com/
 
 Company:
 
-Betesh Media
+Neuro Endoceuticals, LLC
+
+Affiliate Marketing Program I helped implement to increase sales:
+
+
+https://zenexel.com/
+
+<hr>
+
+Company:
+
+Betesh Media - Closed
 
 https://beteshmedia.com/
 
@@ -165,18 +178,6 @@ https://beteshmedia.com/
 template changes to a pre-existing theme for a small business
 
 http://viable-edu.com/
-
-
-<hr>
-
-Company:
-
-Neuro Endoceuticals, LLC
-
-Affiliate Marketing Program I helped implement to increase sales:
-
-
-https://zenexel.com/
 
 
 <hr>
