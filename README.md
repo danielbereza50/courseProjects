@@ -56,6 +56,8 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 *If pointing over from a another host, be sure to swap put the "A" Records of the website. 
 
+https://www.whois.net/
+
 
 * To install a library, cd into your plugin's folder and use composer using the WP-CLI
 
