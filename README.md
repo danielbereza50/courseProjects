@@ -71,6 +71,14 @@ Custom Themes + SEO work via
 :
 
 
+For Project Management:
+https://kanbanflow.com/
+
+
+SVN Repo for published plugins:
+https://plugins.svn.wordpress.org/
+
+
 Company:
 
 EDG eAdvertising Solutions
