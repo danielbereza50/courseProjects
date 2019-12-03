@@ -61,6 +61,13 @@ https://www.whois.net/
 
 * To install a library, cd into your plugin's folder and use composer using the WP-CLI
 
+For Project Management:
+https://kanbanflow.com/
+
+
+SVN Repo for published plugins:
+https://plugins.svn.wordpress.org/
+
 1. Contract Work I did:
 
 
@@ -69,14 +76,6 @@ Custom Themes + SEO work via
 2. https://www.syncedlocalmarketing.com/
 
 :
-
-
-For Project Management:
-https://kanbanflow.com/
-
-
-SVN Repo for published plugins:
-https://plugins.svn.wordpress.org/
 
 
 Company:
