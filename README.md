@@ -152,24 +152,31 @@ Company:
 
 - Team 4Biz
 
-http://www.4bizgraphics.com/
-
 
 Staging Solutions:
 
+template: Museum 
 http://stanleywhitman.com/
 
 
 Deployed Solutions:
 
+template: Imperion 
+http://www.4bizgraphics.com/
+
+template: Maestropizzini
 http://puertovallartausa.com/
 
+template: City of WP
 https://wolcottct.org/
 
+template: CraftBird
 http://www.foodsafetyconsults.com/
 
+template: BeDentist
 https://www.ckmanningmd.com/
 
+Custom Theme:
 http://vistapak.com/
 
 
