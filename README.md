@@ -1,8 +1,10 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
-<div>Operating Systems:</div>
 <div><b>Full Stack Engineer (MAMP, WAMP, LAMP) - WordPress</b></div>
+<div>Operating Systems:</div>
+<div>Mac, Windows, Linux</div>
+
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
