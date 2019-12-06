@@ -86,7 +86,7 @@ EDG eAdvertising Solutions
 
 https://www.edgeadvertisingsolutions.com/
 
-Deployed Soltuions:
+Deployed Solutions:
 
 https://cfbhgroup.com/
 
@@ -121,13 +121,13 @@ Go Viral Marketing
 
 https://goviralmarketing.com/
 
-Staging Soltuions:
+Staging Solutions:
 
 http://newsite2.sjfmc.org/
 
 http://goviralmarketing.com/supplement-pass/
 
-Deployed Soltuions:
+Deployed Solutions:
 
 http://transitionallifecounselingandconsultation.com/
 
@@ -149,7 +149,7 @@ Company:
 http://www.4bizgraphics.com/
 
 
-Deployed Soltuions:
+Deployed Solutions:
 
 http://puertovallartausa.com/
 
