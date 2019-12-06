@@ -66,6 +66,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 https://www.whois.net/
 
 
+<div>WP Core Functions:</div>
+<div>https://developer.wordpress.org/reference/functions/</div>
+
 * To install a library, cd into your plugin's folder and use composer using the WP-CLI
 
 For Project Management:
