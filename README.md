@@ -156,6 +156,7 @@ Company:
 Staging Solutions:
 
 template: Museum 
+
 http://stanleywhitman.com/
 
 
