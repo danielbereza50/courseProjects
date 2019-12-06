@@ -68,8 +68,8 @@ https://www.whois.net/
 
 <div>WP Core Functions:</div>
 <div>https://developer.wordpress.org/reference/functions/</div>
-
-* To install a library, cd into your plugin's folder and use composer using the WP-CLI
+<br>
+<div>* To install a library, cd into your plugin's folder and use composer using the WP-CLI</div>
 
 For Project Management:
 
