@@ -86,7 +86,7 @@ EDG eAdvertising Solutions
 
 https://www.edgeadvertisingsolutions.com/
 
-:
+Deployed Soltuions:
 
 https://cfbhgroup.com/
 
@@ -121,17 +121,19 @@ Go Viral Marketing
 
 https://goviralmarketing.com/
 
-:
+Staging Soltuions:
 
 http://newsite2.sjfmc.org/
+
+http://goviralmarketing.com/supplement-pass/
+
+Deployed Soltuions:
 
 http://transitionallifecounselingandconsultation.com/
 
 http://k-beautymicroblading.com/
 
 http://acertainwork.org/
-
-http://goviralmarketing.com/supplement-pass/
 
 
 
@@ -147,22 +149,21 @@ Company:
 http://www.4bizgraphics.com/
 
 
-template changes:
+Deployed Soltuions:
 
 http://puertovallartausa.com/
 
 https://wolcottct.org/
 
-http://stanleywhitman.com/
-
 http://www.foodsafetyconsults.com/
 
 https://www.ckmanningmd.com/
 
-
-custom themes:
-
 http://vistapak.com/
+
+Staging Solutions:
+
+http://stanleywhitman.com/
 
 
 <hr>
