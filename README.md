@@ -127,6 +127,7 @@ http://newsite2.sjfmc.org/
 
 http://goviralmarketing.com/supplement-pass/
 
+
 Deployed Solutions:
 
 http://transitionallifecounselingandconsultation.com/
@@ -149,6 +150,11 @@ Company:
 http://www.4bizgraphics.com/
 
 
+Staging Solutions:
+
+http://stanleywhitman.com/
+
+
 Deployed Solutions:
 
 http://puertovallartausa.com/
@@ -161,9 +167,6 @@ https://www.ckmanningmd.com/
 
 http://vistapak.com/
 
-Staging Solutions:
-
-http://stanleywhitman.com/
 
 
 <hr>
