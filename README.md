@@ -1,7 +1,8 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
-<b>Full Stack Engineer (MAMP, WAMP, LAMP) - WordPress</b>
+<div>Operating Systems:</div>
+<div><b>Full Stack Engineer (MAMP, WAMP, LAMP) - WordPress</b></div>
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
@@ -53,8 +54,8 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
-
-*If pointing over from a another host, be sure to swap put the "A" Records of the website. 
+<div>Computer Networks</div>
+<div>*If pointing over from a another host, be sure to swap put the "A" Records of the website. </div>
 
 The other DNS records are:
 AAAA, CNAME, MX, NS, SOA, and TXT
