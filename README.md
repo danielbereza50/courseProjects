@@ -56,6 +56,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 *If pointing over from a another host, be sure to swap put the "A" Records of the website. 
 
+The other DNS records are:
+AAAA, CNAME, MX, NS, SOA, and TXT
+
 https://www.whois.net/
 
 
