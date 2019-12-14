@@ -86,6 +86,7 @@ https://plugins.svn.wordpress.org/
 Custom Themes + SEO work via
 1. https://gtmetrix.com/
 2. https://www.syncedlocalmarketing.com/
+3. https://analytics.google.com/analytics/web/
 
 :
 
