@@ -75,8 +75,10 @@ https://www.whois.net/
 WP REST API:
 
 Append and website URL with(functionality comes with WP Core):
+
 website_name/wp-json/wp/v2/
-to see JSON
+
+to see JSON with that website
 
 For Project Management:
 
