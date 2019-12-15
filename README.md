@@ -79,6 +79,8 @@ https://www.whois.net/
 <div>Append the website URL with(functionality comes with WP Core):</div>
 
 <div>website_name/wp-json/wp/v2/pages</div>
+<div>From terminal use: curl -X GET http://localhost/WordPress/wp-json/wp/v2/pages</div>
+<div>After installing .phar file in theme's folder: https://make.wordpress.org/cli/handbook/installing/</div>
 
 <div>to see this endpoint for all of the pages for the theme</div>
 <br>
