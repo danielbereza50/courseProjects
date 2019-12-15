@@ -71,7 +71,7 @@ https://www.whois.net/
 <br>
 <div>* To install a library, cd into your plugin's folder and use composer using the WP-CLI</div>
 
-
+<br>
 <div>WP REST API:</div>
 
 <div>Append the website URL with(functionality comes with WP Core):</div>
