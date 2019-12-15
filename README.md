@@ -78,9 +78,9 @@ https://www.whois.net/
 
 <div>Append the website URL with(functionality comes with WP Core):</div>
 
-<div>website_name/wp-json/wp/v2/</div>
+<div>website_name/wp-json/wp/v2/pages</div>
 
-<div>to see this endpoint</div>
+<div>to see this endpoint for all of the pages for the theme</div>
 <br>
 
 For Project Management:
