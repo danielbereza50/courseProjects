@@ -72,13 +72,13 @@ https://www.whois.net/
 <div>* To install a library, cd into your plugin's folder and use composer using the WP-CLI</div>
 
 
-WP REST API:
+<div>WP REST API:</div>
 
-Append the website URL with(functionality comes with WP Core):
+<div>Append the website URL with(functionality comes with WP Core):</div>
 
-website_name/wp-json/wp/v2/
+<div>website_name/wp-json/wp/v2/</div>
 
-to see this endpoint
+<div>to see this endpoint</div>
 
 For Project Management:
 
