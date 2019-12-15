@@ -80,6 +80,7 @@ https://www.whois.net/
 
 <div>website_name/wp-json/wp/v2/pages</div>
 <div>From terminal use: curl -X GET http://localhost/WordPress/wp-json/wp/v2/pages</div>
+<div>https://www.hostinger.com/tutorials/wordpress-rest-api</div>
 <div>After installing .phar file in theme's folder: https://make.wordpress.org/cli/handbook/installing/</div>
 <div>GET: With this method, you can fetch information from the server.</div>
 <div>POST: This enables you to send information to the server in question.</div>
