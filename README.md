@@ -71,6 +71,13 @@ https://www.whois.net/
 <br>
 <div>* To install a library, cd into your plugin's folder and use composer using the WP-CLI</div>
 
+
+WP REST API:
+
+Append and website URL with(functionality comes with WP Core):
+website_name/wp-json/wp/v2/
+to see JSON
+
 For Project Management:
 
 https://kanbanflow.com/
