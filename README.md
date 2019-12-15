@@ -116,6 +116,8 @@ EDG eAdvertising Solutions
 
 - Team EDG
 
+Fully Secure Connections:
+
 https://www.edgeadvertisingsolutions.com/
 
 Staging Solutions:
