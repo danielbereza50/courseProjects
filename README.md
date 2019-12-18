@@ -77,8 +77,8 @@ https://www.whois.net/
 <div>https://developer.wordpress.org/rest-api/</div>
 
 <div>Append the website URL with(functionality comes with WP Core):</div>
-
-<div>website_name/wp-json/wp/v2/pages</div>
+<div>"headless CMS"</div>
+<div>website_name/wp-json/wp/v2/users</div>
 <div>From terminal use: curl -X GET http://localhost/WordPress/wp-json/wp/v2/pages</div>
 <div>https://www.hostinger.com/tutorials/wordpress-rest-api</div>
 <div>After installing .phar file in theme's folder: https://make.wordpress.org/cli/handbook/installing/</div>
