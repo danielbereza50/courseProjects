@@ -125,9 +125,7 @@ https://www.edgeadvertisingsolutions.com/
 
 Staging Solutions:
 
-http://edgwebsitepreview1.info/
-
-http://edgwebsitepreview.info/
+-
 
 Deployed Solutions:
 
@@ -147,9 +145,9 @@ https://fishercustomdesigns.com/
 
 https://silveradoairsystems.com/
 
+https://techi-usa.com/
 
-
-
+https://garrettsmillag.org/
 
 
 
