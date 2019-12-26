@@ -3,6 +3,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 
 Here's where TeXShop can be downloaded to your mac:
+
 https://pages.uoregon.edu/koch/texshop/index.html
 
 
