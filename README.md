@@ -64,7 +64,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
 <div>Computer Networks:</div>
-<div>*If pointing over from a another remote host, be sure to swap put the "A" Records of the website. </div>
+<div>*If pointing over from another remote host, be sure to swap put the "A" Records of the website. </div>
 
 <div>The other DNS records are:</div>
 <div>AAAA, CNAME, MX, NS, SOA, and TXT</div>
