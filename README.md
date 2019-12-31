@@ -1,7 +1,7 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
-<div><b>Full Stack Engineer (MAMP, WAMP, LAMP) - WordPress</b></div>
+<div><b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit) - WordPress</b></div>
 <br>
 <div>Operating Systems:</div>
 <div>Mac, Windows, Linux</div>
