@@ -15,6 +15,8 @@ https://tex.stackexchange.com/questions/339/latex-editors-ides
 
 Resources:
 https://www.w3resource.com/php-exercises/searching-and-sorting-algorithm/index.php
+
 https://www.guru99.com/object-oriented-programming.html
+
 https://www.w3schools.com/quiztest/default.asp
 
