@@ -280,7 +280,7 @@ Deployed Solutions:
 
 Company:
 
-Neuro Endoceuticals, LLC
+Neuro Endoceuticals, LLC - Closed
 
 Affiliate Marketing Program I helped implement to increase sales:
 
