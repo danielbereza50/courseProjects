@@ -100,6 +100,11 @@ For Project Management:
 https://kanbanflow.com/
 
 
+For Communication:
+
+https://slack.com/
+
+
 SVN Repo for published plugins:
 
 https://plugins.svn.wordpress.org/
