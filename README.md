@@ -233,6 +233,8 @@ http://vistapak.com/
 
 Company:
 
+Tech Compass
+
 - Team Tech Compass
 
 https://www.mytechcompass.com/
