@@ -233,8 +233,9 @@ http://vistapak.com/
 
 Company:
 
-- Team 
+- Team Tech Compass
 
+https://www.mytechcompass.com/
 
 Staging Solutions:
 
