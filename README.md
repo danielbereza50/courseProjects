@@ -21,3 +21,5 @@ https://www.guru99.com/object-oriented-programming.html
 
 https://www.w3schools.com/quiztest/default.asp
 
+https://www.learn-php.org/en/Objects
+
