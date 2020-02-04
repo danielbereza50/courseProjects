@@ -1,11 +1,10 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
-<div><b>Full Stack Engineer (MAMP, WAMP, LAMP) - WordPress</b></div>
+<div><b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - WordPress</b></div>
 <br>
 <div>Operating Systems:</div>
 <div>Mac, Windows, Linux</div>
-
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
@@ -64,7 +63,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 - For a particular Plugin or Widget build - a directory will be specified in that folder
 
 <div>Computer Networks:</div>
-<div>*If pointing over from a another host, be sure to swap put the "A" Records of the website. </div>
+<div>*If pointing over from another remote host, be sure to swap put the "A" Records of the website. </div>
 
 <div>The other DNS records are:</div>
 <div>AAAA, CNAME, MX, NS, SOA, and TXT</div>
@@ -101,6 +100,11 @@ For Project Management:
 https://kanbanflow.com/
 
 
+For Communication:
+
+https://slack.com/
+
+
 SVN Repo for published plugins:
 
 https://plugins.svn.wordpress.org/
@@ -118,6 +122,7 @@ Custom Themes + SEO work via
 Great Article:
 https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
 
+<hr>
 
 Company:
 
@@ -229,12 +234,104 @@ Custom Theme:
 http://vistapak.com/
 
 
+<hr>
+
+Company:
+
+Tech Compass
+
+- Team Tech Compass
+
+https://www.mytechcompass.com/
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
 
 <hr>
 
 Company:
 
-Neuro Endoceuticals, LLC
+- Team 
+
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
+
+
+<hr>
+
+Company:
+
+- Team 
+
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
+<hr>
+
+Company:
+
+- Team 
+
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
+<hr>
+
+Company:
+
+- Team 
+
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
+<hr>
+
+Company:
+
+- Team 
+
+
+Staging Solutions:
+
+
+
+
+Deployed Solutions:
+
+
+
+
+<hr>
+
+Company:
+
+Neuro Endoceuticals, LLC - Closed
 
 Affiliate Marketing Program I helped implement to increase sales:
 
