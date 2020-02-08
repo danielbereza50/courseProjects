@@ -119,9 +119,13 @@ Custom Themes + SEO work via
 4. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 
 Great SEO references:
+
 site:yourwebsite.com/
+
 site:yourwebsite.com/a-page-you-want-to-show-up-in-google/
+
 yourwebsite.com/sitemap.xml
+
 yourwebsite.com/robots.txt
 
 :
