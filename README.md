@@ -120,9 +120,9 @@ Custom Themes + SEO work via
 
 Great SEO references:
 
-site:yourwebsite.com/
+site:yourwebsite.com
 
-site:yourwebsite.com/a-page-you-want-to-show-up-in-google/
+site:yourwebsite.com/a-page-you-want-to-show-up-in-google
 
 yourwebsite.com/sitemap.xml
 
