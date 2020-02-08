@@ -116,6 +116,7 @@ Custom Themes + SEO work via
 1. https://gtmetrix.com/
 2. https://www.syncedlocalmarketing.com/
 3. https://analytics.google.com/analytics/web/
+4. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 
 :
 
