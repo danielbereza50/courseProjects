@@ -118,6 +118,12 @@ Custom Themes + SEO work via
 3. https://analytics.google.com/analytics/web/
 4. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 
+Great SEO references:
+site:yourwebsite.com/
+site:yourwebsite.com/a-page-you-want-to-show-up-in-google/
+yourwebsite.com/sitemap.xml
+yourwebsite.com/robots.txt
+
 :
 
 Great Article:
