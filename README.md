@@ -128,6 +128,8 @@ site:yourwebsite.com/a-page-you-want-to-show-up-in-google
 
 yourwebsite.com/sitemap.xml
 
+yourwebsite.com/page-sitemap.xml
+
 yourwebsite.com/robots.txt
 
 :
