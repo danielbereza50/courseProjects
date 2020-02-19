@@ -246,6 +246,12 @@ template: BeDentist
 
 https://www.ckmanningmd.com/
 
+template: Manufax
+
+child-theme : Kava
+
+http://www.laydonindustries.com/
+
 Custom Theme:
 
 http://vistapak.com/
