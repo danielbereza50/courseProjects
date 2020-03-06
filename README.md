@@ -349,47 +349,6 @@ Deployed Solutions:
 
 
 
-<hr>
-
-Company:
-
-Neuro Endoceuticals, LLC - Closed
-
-Affiliate Marketing Program I helped implement to increase sales:
-
-
-https://zenexel.com/
-
-<hr>
-
-Company:
-
-Betesh Media - Closed
-
-https://beteshmedia.com/
-
-
-template changes to a pre-existing theme for a small business
-
-http://viable-edu.com/
-
-
-<hr>
-
-Company:
-
-SocialLoud Speaker - Closed
-
-
-template changes to a pre-existing theme for a small business
-* implemented a Bootstrap Slider
-
-http://www.livewellholistichealth.com/
-
-
-<hr>
-
-
 
 
 
