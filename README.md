@@ -23,3 +23,5 @@ https://www.w3schools.com/quiztest/default.asp
 
 https://www.learn-php.org/en/Objects
 
+https://parade.com/970343/parade/logic-puzzles/
+
