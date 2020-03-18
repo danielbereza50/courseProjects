@@ -249,9 +249,9 @@ template: BeDentist
 
 https://www.ckmanningmd.com/
 
-template: Manufax
+template: Kava
 
-child-theme : Kava
+child-theme : Manufax
 
 http://www.laydonindustries.com/
 
