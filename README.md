@@ -199,12 +199,13 @@ https://goviralmarketing.com/
 
 Staging Solutions:
 
-http://newsite2.sjfmc.org/
 
 http://goviralmarketing.com/supplement-pass/
 
 
 Deployed Solutions:
+
+https://www.sjfmc.org/
 
 http://transitionallifecounselingandconsultation.com/
 
