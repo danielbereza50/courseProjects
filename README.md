@@ -2,6 +2,8 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
 
 
+*My installation is pointing here: http://localhost/laravel/public/
+
 The documents to install Laravel: 
 
 https://www.youtube.com/watch?v=HdXj8X0ysZc
