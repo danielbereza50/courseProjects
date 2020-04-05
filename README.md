@@ -24,7 +24,7 @@ Note:
 
 composer create-project laravel/laravel {directory} 4.2 --prefer-dist
 
-*Note, after installing composer, move to here for global use: 
+*Note, after installing composer, move to here for global use on the machine: 
 
 mv composer.phar /usr/local/bin/composer
 https://getcomposer.org/doc/00-intro.md
