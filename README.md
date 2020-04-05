@@ -4,7 +4,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 *My installation is pointing here: http://localhost/laravel/public/
 
-The documents to install Laravel: 
+Laravel Cookbooks: 
 
 https://www.youtube.com/watch?v=HdXj8X0ysZc
 
@@ -17,3 +17,5 @@ https://macpaw.com/how-to/access-bin-folder-mac
 https://brew.sh/
 
 https://stackoverflow.com/questions/29329999/mcrypt-php-extension-required-on-mac-os-x
+
+https://apple.stackexchange.com/questions/52461/how-to-save-and-exit-nano-bash-profile-in-terminal
