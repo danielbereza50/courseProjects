@@ -2,7 +2,9 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
 
 
-The document to install Laravel: 
+The documents to install Laravel: 
+
+https://www.youtube.com/watch?v=HdXj8X0ysZc
 
 https://laravel.com/docs/4.2
 
