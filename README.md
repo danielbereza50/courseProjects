@@ -19,3 +19,5 @@ https://brew.sh/
 https://stackoverflow.com/questions/29329999/mcrypt-php-extension-required-on-mac-os-x
 
 https://apple.stackexchange.com/questions/52461/how-to-save-and-exit-nano-bash-profile-in-terminal
+
+https://getcomposer.org/doc/00-intro.md
