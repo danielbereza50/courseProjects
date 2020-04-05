@@ -2,7 +2,7 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
 
 
-*My installation is pointing here: http://localhost/laravel/public/
+*My installation is pointing here: http://localhost/blog/public/
 
 Laravel Cookbooks: 
 
@@ -20,6 +20,9 @@ https://vitux.com/how-to-edit-config-files-in-ubuntu/
 
 https://apple.stackexchange.com/questions/52461/how-to-save-and-exit-nano-bash-profile-in-terminal
 
+Note: 
+
+composer create-project laravel/laravel {directory} 4.2 --prefer-dist
 
 *Note, after installing composer, move to here for global use: 
 
