@@ -13,3 +13,5 @@ https://vitux.com/how-to-edit-config-files-in-ubuntu/
 https://macpaw.com/how-to/access-bin-folder-mac
 
 https://brew.sh/
+
+https://stackoverflow.com/questions/29329999/mcrypt-php-extension-required-on-mac-os-x
