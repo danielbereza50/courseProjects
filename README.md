@@ -9,3 +9,5 @@ https://laravel.com/docs/4.2
 https://vitux.com/how-to-edit-config-files-in-ubuntu/
 
 https://macpaw.com/how-to/access-bin-folder-mac
+
+https://brew.sh/
