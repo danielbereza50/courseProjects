@@ -6,9 +6,9 @@ Great article:
 
 https://www.guru99.com/full-stack-developer.html
 
-MAMP:
+LAMP (phpMyAdmin, CPanel and WHM is the interface):
     
-    • Mac Server OS on which you’re running an
+    • Linux Server OS on which you’re running an
     
     • Apache web server with
     
