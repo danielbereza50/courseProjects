@@ -16,7 +16,11 @@ https://brew.sh/
 
 https://stackoverflow.com/questions/29329999/mcrypt-php-extension-required-on-mac-os-x
 
+** Edit files in Ubantu
+
 https://vitux.com/how-to-edit-config-files-in-ubuntu/
+
+** Save and Edit nano bash scripts
 
 https://apple.stackexchange.com/questions/52461/how-to-save-and-exit-nano-bash-profile-in-terminal
 
