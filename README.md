@@ -2,6 +2,10 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
 
 
+Great article:
+
+https://www.guru99.com/full-stack-developer.html
+
 MAMP:
     
     • Mac Server OS on which you’re running an
