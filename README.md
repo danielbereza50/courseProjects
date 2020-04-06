@@ -3,6 +3,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 
 MAMP:
+    
     • Mac Server OS on which you’re running an
     
     • Apache web server with
