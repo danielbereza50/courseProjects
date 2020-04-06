@@ -4,8 +4,11 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 MAMP:
     • Mac Server OS on which you’re running an
+    
     • Apache web server with
+    
     • MySQL as a database and
+    
     • PHP as the backend language
 
 vs.
@@ -13,6 +16,9 @@ vs.
 MERN:
 
     • MongoDB as the database
+    
     • Express as the web framework
+    
     • ReactJS as the front-end framework, and
+    
     • Node.js as the server platform
