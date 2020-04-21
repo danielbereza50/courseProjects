@@ -11,3 +11,5 @@ https://graphicdesign.stackexchange.com/users/151822/dan
 https://www.linkedin.com/in/daniel-bereza/
 
 https://www.facebook.com/danielbereza
+
+https://twitter.com/DanielBereza
