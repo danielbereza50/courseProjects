@@ -33,3 +33,8 @@ composer create-project laravel/laravel {directory} 4.2 --prefer-dist
 mv composer.phar /usr/local/bin/composer
 https://getcomposer.org/doc/00-intro.md
 
+
+
+* great Laravel templates:
+https://www.creative-tim.com/blog/web-design/free-dashboards-templates-laravel/
+
