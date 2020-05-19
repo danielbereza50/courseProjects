@@ -271,7 +271,7 @@ http://vistapak.com/
 
 Company:
 
-212 Creative 
+212 Creative, LLC 
 
 - Team 212
 
