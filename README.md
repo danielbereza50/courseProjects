@@ -39,3 +39,5 @@ https://getcomposer.org/doc/00-intro.md
 
 https://www.creative-tim.com/blog/web-design/free-dashboards-templates-laravel/
 
+top pick: Voyager CMS template
+
