@@ -119,9 +119,10 @@ Custom Themes + SEO work via
 2. https://www.syncedlocalmarketing.com/
 3. https://analytics.google.com/analytics/web/
 4. https://drive.google.com/drive/my-drive
-5. https://search.google.com/search-console/welcome
-6. https://support.google.com/webmasters/answer/6065812
-7. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
+5. https://console.developers.google.com/
+6. https://search.google.com/search-console/welcome
+7. https://support.google.com/webmasters/answer/6065812
+8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 
 Great SEO references:
 
