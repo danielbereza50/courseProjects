@@ -156,7 +156,7 @@ https://www.edgeadvertisingsolutions.com/
 
 Staging Solutions:
 
-https://mistymints.org/
+-
 
 Deployed Solutions:
 
@@ -185,6 +185,8 @@ https://silveradomechanicalservices.com/
 https://threebrothersusa.com/
 
 https://keystonerolloff.com/
+
+https://mistymints.org/
 
 Custom Online-Order plugin:
 
