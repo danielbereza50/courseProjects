@@ -120,6 +120,7 @@ Custom Themes + SEO work via
 3. https://analytics.google.com/analytics/web/
 4. https://drive.google.com/drive/my-drive
 5. https://console.developers.google.com/
+7. how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
 6. https://search.google.com/search-console/welcome
 7. https://support.google.com/webmasters/answer/6065812
 8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
