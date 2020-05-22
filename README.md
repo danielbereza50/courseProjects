@@ -124,6 +124,8 @@ Custom Themes + SEO work via
 6. https://search.google.com/search-console/welcome
 7. https://support.google.com/webmasters/answer/6065812
 8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
+9. http://pajhome.org.uk/crypt/md5/
+
 
 Great SEO references:
 
