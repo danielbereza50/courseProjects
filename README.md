@@ -232,6 +232,10 @@ Company:
 
 - Team 4Biz
 
+template: Imperion 
+
+http://www.4bizgraphics.com/
+
 
 Staging Solutions:
 
@@ -242,9 +246,6 @@ http://stanleywhitman.com/
 
 Deployed Solutions:
 
-template: Imperion 
-
-http://www.4bizgraphics.com/
 
 template: Maestropizzini
 
@@ -281,6 +282,7 @@ Company:
 
 - Team 212
 
+https://212creative.com/
 
 Staging Solutions:
 
