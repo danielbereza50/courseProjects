@@ -291,9 +291,10 @@ http://goldentouch.212development.com/
 
 http://strictlyvtwin.212development.com/
 
-http://hangrykits.212development.com/
 
 
 Deployed Solutions:
 
 https://twinsurance.net/
+
+https://hangrykits.com/
