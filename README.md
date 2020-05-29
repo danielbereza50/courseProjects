@@ -286,10 +286,11 @@ https://212creative.com/
 
 Staging Solutions:
 
+template: Divi
+
 https://twinsurance.212development.com/
 
 http://goldentouch.212development.com/
-
 
 
 Deployed Solutions:
