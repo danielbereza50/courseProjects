@@ -239,9 +239,8 @@ http://www.4bizgraphics.com/
 
 Staging Solutions:
 
-template: Museum 
 
-http://stanleywhitman.com/
+
 
 
 Deployed Solutions:
