@@ -39,8 +39,7 @@ download Spring MVC here: https://spring.io/quickstart
 <br>
 <div>Operating Systems:</div>
 Mac, Windows, Linux
-
-
+<br>
 Spring MVC Cookbooks:
 
 
