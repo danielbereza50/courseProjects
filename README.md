@@ -8,6 +8,13 @@ download ASP.NET here: https://dotnet.microsoft.com/download
 
 *My installation is pointing here: //
 
+
+<div><b>Full Stack Engineer (Microsoft Stack 64 bit architecture) - ASP.NET</b></div>
+<br>
+<div>Operating Systems:</div>
+<div>Mac, Windows, Linux</div>
+<br>
+
 ASP.NET Cookbooks:
 
 
