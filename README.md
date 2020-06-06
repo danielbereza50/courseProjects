@@ -3,7 +3,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 download Spring MVC here: https://spring.io/quickstart
 
-* run in IDE, such as Visual Studio or Eclipse
+* open in IDE, such as Visual Studio or Eclipse
 
 *My installation is pointing here: //
 
