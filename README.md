@@ -4,7 +4,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 download ASP.NET here: https://dotnet.microsoft.com/download
 
-* run in Visual Studio
+* open in Visual Studio
 
 *My installation is pointing here: //
 
