@@ -5,6 +5,11 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 *My installation is pointing here: //
 
+<b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - Django</b>
+
+Operating Systems:
+Mac, Windows, Linux
+
 Django Cookbooks: 
 
 
