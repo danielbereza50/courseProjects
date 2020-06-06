@@ -7,6 +7,27 @@ download Spring MVC here: https://spring.io/quickstart
 
 *My installation is pointing here: //
 
+<div><b>Full Stack Engineer (64 bit architecture) - Spring MVC</b></div>
+<br>
+<div>
+    Spring Boot for application configuration
+    Maven or Gradle configuration for building, testing and running the application
+    “development” and “production” profiles (both for Maven and Gradle)
+    Spring Security
+    Spring MVC REST + Jackson
+    Optional WebSocket support with Spring Websocket
+    Spring Data JPA + Bean Validation
+    Database updates with Liquibase
+    Elasticsearch support if you want to have search capabilities on top of your database
+    MongoDB and Couchbase support if you’d rather use a document-oriented NoSQL database instead of JPA
+    Cassandra support if you’d rather use a column-oriented NoSQL database instead of JPA
+    Kafka support if you want to use a publish-subscribe messaging system
+</div>
+<br>
+<div>Operating Systems:</div>
+<div>Mac
+
+
 Spring MVC Cookbooks:
 
 
