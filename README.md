@@ -3,10 +3,14 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * download WordPress here: https://wordpress.org/download/
 
+*My installation is pointing here: http://localhost/WordPress
+
 <div><b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - WordPress</b></div>
 <br>
 <div>Operating Systems:</div>
 <div>Mac, Windows, Linux</div>
+
+WordPress Cookbooks: 
 
 * Documentation: https://www.wpbeginner.com/wp-tutorials/how-to-move-live-wordpress-site-to-local-server/
 
