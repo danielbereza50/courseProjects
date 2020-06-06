@@ -5,7 +5,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 *My installation is pointing here: http://localhost/blog/public/
 
-<b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - Laravel<b>
+<b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - Laravel</b>
 
 Operating Systems:
 Mac, Windows, Linux
