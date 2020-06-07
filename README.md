@@ -9,6 +9,7 @@ download Spring MVC here: https://spring.io/quickstart
 
 <div><b>Full Stack Engineer (64 bit architecture) - Spring MVC</b></div>
 <br>
+https://www.jhipster.tech/tech-stack/
 <div>
     
    Spring Boot for application configuration
