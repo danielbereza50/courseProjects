@@ -1,7 +1,8 @@
 # Career_Projects
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
 
-download Spring MVC here: https://spring.io/quickstart
+* download Spring MVC here: https://spring.io/quickstart
+* download ASP.NET here: https://visualstudio.microsoft.com/vs/mac/
 
 * open in IDE, such as Visual Studio or Eclipse
 
