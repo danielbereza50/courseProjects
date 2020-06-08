@@ -46,4 +46,11 @@ Mac, Windows, Linux
 Spring MVC Cookbooks:
 
 
+https://dzone.com/articles/top-21-java-based-content
+
+https://sourceforge.net/projects/magnolia/
+
+
+
+
 
