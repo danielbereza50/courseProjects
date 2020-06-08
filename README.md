@@ -15,5 +15,6 @@ Django Cookbooks:
 
 
 http://mezzanine.jupo.org/en/admin/
+
 http://mezzanine.jupo.org/
 
