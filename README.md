@@ -6,7 +6,9 @@ download ASP.NET here: https://visualstudio.microsoft.com/vs/mac/
 
 * open in Visual Studio
 
-*My installation is pointing here: //
+* How to view database: https://database.guide/how-to-install-sql-server-on-a-mac/
+
+*My installation is pointing here: https://localhost:5001/Home/
 
 
 <div><b>Full Stack Engineer (Microsoft Stack 64 bit architecture) - ASP.NET</b></div>
