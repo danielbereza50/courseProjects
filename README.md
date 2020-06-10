@@ -4,7 +4,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 * download MAMP here: https://bitnami.com/stack/mamp/installer
 * download Laravel here: https://laravel.com/docs/4.2
 
-*My installation is pointing here: http://localhost/blog/public/
+*My installation is pointing here: http://localhost/Laravel/public/
 
 <b>Full Stack Engineer (MAMP, WAMP, LAMP 64 bit architecture) - Laravel</b>
 
