@@ -37,6 +37,9 @@ $ svn co https://develop.svn.wordpress.org/trunk/tests/phpunit/includes/
 
 
 https://www.codetab.org/tutorial/wordpress-plugin-development/unit-test/plugin-unit-testing/
+https://www.smashingmagazine.com/2017/12/automated-testing-wordpress-plugins-phpunit/
+
+
 
 
 
