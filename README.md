@@ -307,6 +307,6 @@ https://twinsurance.net/
 
 http://hangrykits.com/pre-sales-landing-page/
 
-https://dmtreeservice.com/
+https://dmtreeservice.com/checkout/
 
-https://dmtreeservice.com/product/campfire-wood-bundle-picked-up/
+https://dmtreeservice.com/product/mulch-hardwood-delivery/
