@@ -6,11 +6,20 @@ Here's where TeXShop can be downloaded to your mac:
 
 https://pages.uoregon.edu/koch/texshop/index.html
 
-
-
 Here's a list of alternatives:
 
 https://tex.stackexchange.com/questions/339/latex-editors-ides
+
+
+Object Oriented Programing in a nutshell:
+
+https://code.tutsplus.com/tutorials/basics-of-object-oriented-programming-in-php--cms-31910
+
+1. inheritance = extends another class
+
+2. polymorphism = implements interface
+
+3. encapsulation = get, set variables
 
 
 Resources:
