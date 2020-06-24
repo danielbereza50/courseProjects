@@ -17,7 +17,9 @@ https://code.tutsplus.com/tutorials/basics-of-object-oriented-programming-in-php
 
 1. inheritance = extends another class
 
-2. polymorphism = implements interface
+2. polymorphism = implements interface and abstract classes
+
+https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362
 
 3. encapsulation = get, set variables
 
