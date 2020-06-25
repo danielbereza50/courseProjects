@@ -10,6 +10,9 @@ Here's a list of alternatives:
 
 https://tex.stackexchange.com/questions/339/latex-editors-ides
 
+* UML (Unified Modeling Language)
+
+http://staruml.io/
 
 <b>Object Oriented Programming principles:</b>
 
@@ -24,8 +27,6 @@ https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-p
 3. encapsulation = get, set variables
 
 <b>Object Oriented Programming methods:</b>
-
-* UML (Unified Modeling Language)
 
 1. Use Cases = specific business goals to be satisfied by the system to be built
 
