@@ -35,6 +35,10 @@ https://www.visual-paradigm.com/tutorials/writingeffectiveusecase.jsp
 
 https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/
 
+<b>Object Oriented Programming patterns:</b>
+
+https://www.oodesign.com/
+
 Resources:
 
 https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
