@@ -11,7 +11,7 @@ Here's a list of alternatives:
 https://tex.stackexchange.com/questions/339/latex-editors-ides
 
 
-Object Oriented Programming principles:
+<b>Object Oriented Programming principles:</b>
 
 https://code.tutsplus.com/tutorials/basics-of-object-oriented-programming-in-php--cms-31910
 
@@ -23,7 +23,7 @@ https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-p
 
 3. encapsulation = get, set variables
 
-Object Oriented Programming methods:
+<b>Object Oriented Programming methods:</b>
 
 1. Use Cases
 
