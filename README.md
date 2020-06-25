@@ -25,11 +25,11 @@ https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-p
 
 <b>Object Oriented Programming methods:</b>
 
-1. Use Cases
+1. Use Cases = specific business goal to be satisfied by the system to be built
 
 https://www.visual-paradigm.com/tutorials/writingeffectiveusecase.jsp
 
-2. Sequence Diagrams
+2. Sequence Diagrams = interaction between objects in a sequential order
 
 https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/
 
