@@ -11,7 +11,7 @@ Here's a list of alternatives:
 https://tex.stackexchange.com/questions/339/latex-editors-ides
 
 
-Object Oriented Programing in a nutshell:
+Object Oriented Programing principles:
 
 https://code.tutsplus.com/tutorials/basics-of-object-oriented-programming-in-php--cms-31910
 
@@ -23,6 +23,15 @@ https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-p
 
 3. encapsulation = get, set variables
 
+Object Oriented Programing methods:
+
+1. Use Cases
+
+https://www.visual-paradigm.com/tutorials/writingeffectiveusecase.jsp
+
+2. Sequence Diagrams
+
+https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/
 
 Resources:
 
