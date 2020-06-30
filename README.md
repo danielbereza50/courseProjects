@@ -1,19 +1,15 @@
-# Career_Projects
-A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.   
+# pulse-creative-test   https://www.pulse-creative.com/pulse-tester/index.html  
 
+!!!***note: I built this website on my local host: http://localhost/wordpress-website/  
 
-Social Media Links: 
+there has to be an extra piece to the path for some of the images to come through  
 
-https://stackoverflow.com/users/6249179/dan
+./  
 
-https://graphicdesign.stackexchange.com/users/151822/dan
+extra features: 
 
-https://www.linkedin.com/in/daniel-bereza/
+1. Added a spin animation to the "What we do" wheel 
 
-https://www.facebook.com/danielbereza
+2. sticky header 
 
-https://twitter.com/DanielBereza
-
-https://www.youtube.com/channel/UC_EvRpft1xnCek93bREtoEA?view_as=subscriber
-
-https://my.indeed.com/p/danielb-jgqr24p
+3. video plays after pushing the play button
