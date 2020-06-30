@@ -10,6 +10,10 @@ there has to be an extra piece to the path for some of the images to come throug
 
 ./  
 
+UN: admin
+
+PW: admin
+
 extra features: 
 
 1. Added a spin animation to the "What we do" wheel 
@@ -17,3 +21,5 @@ extra features:
 2. sticky header 
 
 3. video plays after pushing the play button
+
+
