@@ -14,6 +14,10 @@ UN: admin
 
 PW: admin
 
+sql file: 
+
+pulse.sql in the root directory
+
 extra features: 
 
 1. Added a spin animation to the "What we do" wheel 
