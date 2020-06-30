@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'helvetica-neue-lt-cn';
+					src: url('/pulse-creative/wp-content/uploads/useanyfont/5419Helvetica-Neue-LT-Cn.woff2') format('woff2'),
+						url('/pulse-creative/wp-content/uploads/useanyfont/5419Helvetica-Neue-LT-Cn.woff') format('woff');
+					font-display: auto;
+				}
+
+				.helvetica-neue-lt-cn{font-family: 'helvetica-neue-lt-cn' !important;}
+
+						h2, p{
+					font-family: 'helvetica-neue-lt-cn' !important;
+				}
+		
