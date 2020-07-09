@@ -255,6 +255,8 @@ template: Maestropizzini
 
 http://puertovallartausa.com/
 
+* 1 - 2k users a month
+
 template: City of WP
 
 https://wolcottct.org/
