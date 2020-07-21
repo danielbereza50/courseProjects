@@ -314,9 +314,7 @@ https://twinsurance.net/
 
 http://hangrykits.com/pre-sales-landing-page/
 
-https://dmtreeservice.com/checkout/
-
-https://dmtreeservice.com/product/mulch-hardwood-delivery/
+https://dmtreeservice.com
 
 https://ankenterprises.com/
 
