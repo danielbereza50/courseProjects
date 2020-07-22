@@ -300,12 +300,11 @@ framework: Divi
 
 http://staging2.dmtreeservice.com/
 
-http://goldentouch.212development.com/
-
 https://ourtown3d.com/newbaltimore/
 
 https://www.staging1.homeproshowcase.com/
 
+http://goldentouch.212development.com/
 
 
 Deployed Solutions:
