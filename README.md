@@ -46,6 +46,8 @@ https://www.oodesign.com/
 
 Resources:
 
+https://www.geeksforgeeks.org/python-multiple-choice-questions/#mcq/quiz
+
 https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
 
 https://www.w3resource.com/php-exercises/searching-and-sorting-algorithm/index.php
