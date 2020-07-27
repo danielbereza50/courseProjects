@@ -46,7 +46,8 @@ https://www.oodesign.com/
 
 Resources:
 
-https://www.geeksforgeeks.org/python-multiple-choice-questions/#mcq/quiz
+
+*** https://www.geeksforgeeks.org/quiz-corner-gq/
 
 https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
 
