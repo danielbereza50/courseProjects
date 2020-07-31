@@ -251,29 +251,21 @@ Staging Solutions:
 Deployed Solutions:
 
 
-template: Maestropizzini
+templates:
 
 http://puertovallartausa.com/
 
 * 1 - 2k users a month
 
-template: City of WP
-
 https://wolcottct.org/
-
-template: CraftBird
 
 http://www.foodsafetyconsults.com/
 
-template: BeDentist
-
 https://www.ckmanningmd.com/
 
-template: Kava
-
-child-theme : Manufax
-
 http://www.laydonindustries.com/
+
+http://www.essexautoclub.org/
 
 Custom Theme:
 
