@@ -10,14 +10,18 @@ How to:
    
    $group_code = $post_meta['group_code']['0'];
    
-   $post_id = $wpdb->get_results("SELECT `role_manage` FROM ".$table_name." WHERE group_code= '".$group_code."' ");
+   // ***note run the query in the phpmyadmin first to see what is returned from the query
+   
+   $post_id = $wpdb->get_results("SELECT 'role_manage' FROM ".$table_name." WHERE group_code= '".$group_code."' ");
 
    // print out the data onto a web page
    
    foreach ($post_id as $post_ids){ ?>
-       <li><?php echo $post_ids->column_name;?></li>
-       <li><?php echo $post_ids->another_column_name;?></li>
-       <li><?php echo $post_ids->as_many_columns_as_you_have;?></li>
+   
+       <li><?php echo $post_ids->umeta_id;?></li>
+       <li><?php echo $post_ids->meta_key;?></li>
+       <li><?php echo $post_ids->meta_value;?></li>
+   
    <?php 
    }
    
