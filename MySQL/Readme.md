@@ -6,7 +6,7 @@ How to:
    
    $table_name = $wpdb->prefix . "wp_usermeta";
    
-   //get the data from a web form field
+   //get the data from a web form field, 'group code' is the name of the field control
    
    $group_code = $post_meta['group_code']['0'];
    
@@ -15,9 +15,9 @@ How to:
    // print out the data onto a web page
    
    foreach ($post_id as $post_ids){ ?>
-       <li><?php echo $post_ids->column_name;?></li> 
-       <li><?php echo $post_ids->another_column_name;?></li>
-       <li><?php echo $post_ids->as_many_columns_as_you_have;?></li>
+       <?php echo $post_ids->column_name;?>
+       <?php echo $post_ids->another_column_name;?>
+       <?php echo $post_ids->as_many_columns_as_you_have;?>
    <?php 
    }
    
