@@ -16,13 +16,13 @@ How to:
 
    // print out the data onto a web page
    
-   foreach ($post_id as $post_ids){ ?>
+   foreach ($post_id as $post_ids)
    
-       <li><?php echo $post_ids->umeta_id;?></li>
-       <li><?php echo $post_ids->meta_key;?></li>
-       <li><?php echo $post_ids->meta_value;?></li> <?php 
-       
-     }
+       { ?>
+         <li><?php echo $post_ids->umeta_id;?></li>
+         <li><?php echo $post_ids->meta_key;?></li>
+         <li><?php echo $post_ids->meta_value;?></li> <?php  
+       }
   
    
   
