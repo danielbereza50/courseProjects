@@ -15,9 +15,9 @@ How to:
    // print out the data onto a web page
    
    foreach ($post_id as $post_ids){ ?>
-       <?php echo $post_ids->column_name;?>
-       <?php echo $post_ids->another_column_name;?>
-       <?php echo $post_ids->as_many_columns_as_you_have;?>
+       <li><?php echo $post_ids->column_name;?></li>
+       <li><?php echo $post_ids->another_column_name;?></li>
+       <li><?php echo $post_ids->as_many_columns_as_you_have;?></li>
    <?php 
    }
    
