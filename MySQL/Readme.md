@@ -7,9 +7,19 @@ How to:
    global $wpdb;
    $table_name = $wpdb->prefix . "wp_usermeta";
    
+    // debugging purposes, print_r(); variables
+
+    //$users_id = get_users( array( 'fields' => array( 'ID' ) ) );   
+    //foreach($users_id as $user){
+    //print_r(get_user_meta ( $user->ID));
+    //}
+   
    // set the post meta equal to the user meta for that ID
  
    $post_meta = get_user_meta($user_id);
+    
+    //debug
+    //print_r($post_meta);
    
    // get the data from a web form field, 'group code' is the name of the field control
  
