@@ -7,7 +7,7 @@ How to:
    global $wpdb;
    $table_name = $wpdb->prefix . "wp_usermeta";
    
-    // debugging purposes, print_r(); variables
+    // debugging purposes
 
     //$users_id = get_users( array( 'fields' => array( 'ID' ) ) );   
     //foreach($users_id as $user){
