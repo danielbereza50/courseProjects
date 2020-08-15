@@ -30,7 +30,7 @@ How to:
    
    $post_id = $wpdb->get_results("SELECT 'role_manage' FROM ".$table_name." WHERE group_code= '".$group_code."' ");
 
-   // print out the data onto a web page
+   // print out the data onto a web page using a foreach loop
    
    foreach ($post_id as $post_ids)
    
