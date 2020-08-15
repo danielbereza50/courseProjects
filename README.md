@@ -302,9 +302,9 @@ https://www.staging1.jestersigns.com/
 
 https://staging1.mygpea.org/
 
-https://strictlyvtwin.com/
-
 https://staging.ltcrplus.com/login/
+
+http://strictlyvt.212development.com/
 
 
 Deployed Solutions:
@@ -322,4 +322,6 @@ https://www.jdwebsitedevelopment.com/
 https://ltcrplus.com/
 
 https://serraspring.com/
+
+https://strictlyvtwin.com/
 
