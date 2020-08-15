@@ -1,3 +1,5 @@
+Structure has been used since WP version 3.8  
+ 
  
 How to:
 
