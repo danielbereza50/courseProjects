@@ -4,6 +4,7 @@ How to:
    1. https://deliciousbrains.com/tour-wordpress-database/
    2. example, store the results from the MySQL database in a php variable to be used sometime later, like so: 
    
+   global $wpdb;
    $table_name = $wpdb->prefix . "wp_usermeta";
    
    //get the data from a web form field, 'group code' is the name of the field control
