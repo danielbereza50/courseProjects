@@ -21,8 +21,8 @@ How to:
        { ?>
          <li><?php echo $post_ids->umeta_id;?></li>
          <li><?php echo $post_ids->meta_key;?></li>
-         <li><?php echo $post_ids->meta_value;?></li> <?php  
-       }
+         <li><?php echo $post_ids->meta_value;?></li>  
+        <?php }
   
    
   
