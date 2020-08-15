@@ -18,7 +18,6 @@ How to:
  
    $post_meta = get_user_meta($user_id);
     
-    //debug
     //print_r($post_meta);
    
    // get the data from a web form field, 'group code' is the name of the field control
