@@ -133,6 +133,7 @@ Custom Themes + SEO work via
 8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 9. http://pajhome.org.uk/crypt/md5/
 10. https://whatismyipaddress.com/
+11. http://beautifytools.com/php-beautifier.php
 
 
 Great SEO references:
