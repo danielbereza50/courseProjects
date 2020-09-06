@@ -134,6 +134,7 @@ Custom Themes + SEO work via
 9. http://pajhome.org.uk/crypt/md5/
 10. https://whatismyipaddress.com/
 11. http://beautifytools.com/php-beautifier.php
+12. https://www.freeformatter.com/html-formatter.html
 
 
 Great SEO references:
