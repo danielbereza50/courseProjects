@@ -306,8 +306,6 @@ https://www.staging1.jestersigns.com/
 
 https://staging.ltcrplus.com/login/
 
-http://strictlyvt.212development.com/
-
 http://bowlguard.212development.com/
 
 http://lighthouse.212development.com
