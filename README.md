@@ -304,8 +304,6 @@ http://goldentouch.212development.com/
 
 https://www.staging1.jestersigns.com/
 
-https://staging1.mygpea.org/
-
 https://staging.ltcrplus.com/login/
 
 http://strictlyvt.212development.com/
@@ -336,4 +334,6 @@ https://ltcrplus.com/
 https://serraspring.com/
 
 https://strictlyvtwin.com/
+
+https://mygpea.org/
 
