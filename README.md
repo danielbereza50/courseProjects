@@ -294,8 +294,6 @@ Staging Solutions:
 
 framework: Divi
 
-http://staging2.dmtreeservice.com/
-
 https://ourtown3d.com/newbaltimore/
 
 https://www.staging1.homeproshowcase.com/
@@ -305,8 +303,6 @@ http://goldentouch.212development.com/
 https://www.staging1.jestersigns.com/
 
 https://staging.ltcrplus.com/login/
-
-http://bowlguard.212development.com/
 
 http://lighthouse.212development.com
 
@@ -335,3 +331,4 @@ https://strictlyvtwin.com/
 
 https://mygpea.org/
 
+https://bowlguard.com/
