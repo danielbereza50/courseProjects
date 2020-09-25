@@ -82,7 +82,7 @@ How to:
             array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),   
             
         ),
-    );
+       );
 
        $args = array( 
     
@@ -94,7 +94,7 @@ How to:
        
        'args'           => array( $args1, $args2 ),
        
-    );
+       );
 
     $results = new WP_Combine_Queries( $args );
  
