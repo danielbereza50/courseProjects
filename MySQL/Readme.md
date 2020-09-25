@@ -55,28 +55,45 @@ How to:
  */
 
      $args1 = array(
+     
          'post_type'  => 'post',
-         'orderby'    => 'title',
-         'order'      => 'ASC',
-         'date_query' => array(
+        
+        'orderby'    => 'title',
+        
+        'order'      => 'ASC',
+        
+        'date_query' => array(
+        
              array( 'after' => '2013-12-14 13:03:40' ),
+             
          ),
      );
 
     $args2 = array(
+    
         'post_type'  => 'post',
+        
         'orderby'    => 'title',
+        
         'order'      => 'DESC',
+        
         'date_query' => array(
-            array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),    
+        
+            array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),   
+            
         ),
     );
 
     $args = array( 
+    
        'posts_per_page' => 1,
+       
        'paged'          => 1,
+       
        'sublimit'       => 1000,
+       
        'args'           => array( $args1, $args2 ),
+       
     );
 
     $results = new WP_Combine_Queries( $args );
