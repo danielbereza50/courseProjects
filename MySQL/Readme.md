@@ -69,7 +69,7 @@ How to:
          ),
      );
 
-    $args2 = array(
+     $args2 = array(
     
         'post_type'  => 'post',
         
@@ -84,7 +84,7 @@ How to:
         ),
     );
 
-    $args = array( 
+      $args = array( 
     
        'posts_per_page' => 1,
        
