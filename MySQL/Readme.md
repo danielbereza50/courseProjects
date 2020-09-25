@@ -46,6 +46,7 @@ How to:
   
    
  great example of combining two or more queries and the resulting SQL:
+ 
  taken from : https://stackoverflow.com/questions/23555109/wordpress-combine-queries
  
        PHP:
