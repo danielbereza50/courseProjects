@@ -54,7 +54,7 @@ How to:
  * Demo #1 - Combine two sub queries:
  */
 
-     $args1 = array(
+        $args1 = array(
      
          'post_type'  => 'post',
         
@@ -69,7 +69,7 @@ How to:
          ),
      );
 
-     $args2 = array(
+        $args2 = array(
     
         'post_type'  => 'post',
         
@@ -84,7 +84,7 @@ How to:
         ),
     );
 
-      $args = array( 
+       $args = array( 
     
        'posts_per_page' => 1,
        
