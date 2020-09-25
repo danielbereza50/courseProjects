@@ -48,11 +48,11 @@ How to:
  great example of combining two or more queries and the resulting SQL:
  taken from : https://stackoverflow.com/questions/23555109/wordpress-combine-queries
  
- PHP:
- 
-/**
- * Demo #1 - Combine two sub queries:
- */
+       PHP:
+
+      /**
+       * Demo #1 - Combine two sub queries:
+       */
 
         $args1 = array(
      
@@ -98,6 +98,8 @@ How to:
 
        $results = new WP_Combine_Queries( $args );
  
+       SQL:
+       
        SELECT SQL_CALC_FOUND_ROWS * FROM ( 
        
         ( SELECT wp_posts.* 
