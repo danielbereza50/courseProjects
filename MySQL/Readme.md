@@ -96,7 +96,7 @@ How to:
        
        );
 
-      $results = new WP_Combine_Queries( $args );
+       $results = new WP_Combine_Queries( $args );
  
        SELECT SQL_CALC_FOUND_ROWS * FROM ( 
        
