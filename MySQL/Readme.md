@@ -98,7 +98,43 @@ How to:
 
     $results = new WP_Combine_Queries( $args );
  
-   
+       SELECT SQL_CALC_FOUND_ROWS * FROM ( 
+       
+        ( SELECT wp_posts.* 
+        
+            FROM wp_posts 
+            
+            WHERE 1=1 
+            
+                AND ( ( post_date > '2013-12-14 13:03:40' ) ) 
+                
+                AND wp_posts.post_type = 'post' 
+                
+                AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') 
+                
+                ORDER BY wp_posts.post_title ASC 
+                
+                LIMIT 1000
+        ) 
+        UNION 
+        ( SELECT wp_posts.* 
+        
+            FROM wp_posts 
+            
+            WHERE 1=1 
+            
+            AND ( ( post_date <= '2013-12-14 13:03:40' ) ) 
+            
+            AND wp_posts.post_type = 'post' 
+            
+            AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') 
+            
+            ORDER BY wp_posts.post_title DESC 
+            
+            LIMIT 1000
+        ) 
+        
+    ) as combined LIMIT 0, 10 
    
    
    
