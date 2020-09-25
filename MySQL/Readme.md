@@ -96,7 +96,7 @@ How to:
        
        );
 
-    $results = new WP_Combine_Queries( $args );
+      $results = new WP_Combine_Queries( $args );
  
        SELECT SQL_CALC_FOUND_ROWS * FROM ( 
        
@@ -133,8 +133,7 @@ How to:
             
             LIMIT 1000
         ) 
-        
-    ) as combined LIMIT 0, 10 
+       ) as combined LIMIT 0, 10 
    
    
    
