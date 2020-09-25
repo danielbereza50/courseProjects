@@ -45,6 +45,67 @@ How to:
    
   
    
+ great example of combining two or more queries and the resulting SQL:
+ taken from : https://stackoverflow.com/questions/23555109/wordpress-combine-queries
+ 
+ PHP:
+ 
+ /**
+ * Demo #1 - Combine two sub queries:
+ */
+
+$args1 = array(
+    'post_type'  => 'post',
+    'orderby'    => 'title',
+    'order'      => 'ASC',
+    'date_query' => array(
+        array( 'after' => '2013-12-14 13:03:40' ),
+    ),
+);
+
+$args2 = array(
+    'post_type'  => 'post',
+    'orderby'    => 'title',
+    'order'      => 'DESC',
+    'date_query' => array(
+        array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),    
+    ),
+);
+
+$args = array( 
+   'posts_per_page' => 1,
+   'paged'          => 1,
+   'sublimit'       => 1000,
+   'args'           => array( $args1, $args2 ),
+);
+
+$results = new WP_Combine_Queries( $args );
+ 
+ SQL:
+ 
+ SELECT SQL_CALC_FOUND_ROWS * FROM ( 
+    ( SELECT wp_posts.* 
+        FROM wp_posts 
+        WHERE 1=1 
+            AND ( ( post_date > '2013-12-14 13:03:40' ) ) 
+            AND wp_posts.post_type = 'post' 
+            AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') 
+            ORDER BY wp_posts.post_title ASC 
+            LIMIT 1000
+    ) 
+    UNION 
+    ( SELECT wp_posts.* 
+        FROM wp_posts 
+        WHERE 1=1 
+        AND ( ( post_date <= '2013-12-14 13:03:40' ) ) 
+        AND wp_posts.post_type = 'post' 
+        AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'private') 
+        ORDER BY wp_posts.post_title DESC 
+        LIMIT 1000
+    ) 
+) as combined LIMIT 0, 10 
+ 
+   
    
    
    
