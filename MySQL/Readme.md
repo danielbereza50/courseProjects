@@ -64,18 +64,27 @@ $args1 = array(
 );
 
 $args2 = array(
-    'post_type'  => 'post',
-    'orderby'    => 'title',
-    'order'      => 'DESC',
-    'date_query' => array(
-        array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),    
-    ),
+   
+   'post_type'  => 'post',
+   
+   'orderby'    => 'title',
+   
+   'order'      => 'DESC',
+   
+   'date_query' => array(
+   
+   array( 'before' => '2013-12-14 13:03:40', 'inclusive' => TRUE ),    
+   
+   ),
 );
 
 $args = array( 
    'posts_per_page' => 1,
+   
    'paged'          => 1,
+   
    'sublimit'       => 1000,
+   
    'args'           => array( $args1, $args2 ),
 );
 
