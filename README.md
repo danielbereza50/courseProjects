@@ -308,7 +308,9 @@ http://lighthouse.212development.com
 
 https://ourtown3d.com/stclair/
 
-https://staging.jacar-systems.com/
+http://innisfail.212development.com/
+
+http://pdesystems.212development.com/
 
 
 Deployed Solutions:
@@ -332,3 +334,7 @@ https://strictlyvtwin.com/
 https://mygpea.org/
 
 https://bowlguard.com/
+
+https://jacar-systems.com/
+
+
