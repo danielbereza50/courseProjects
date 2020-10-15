@@ -300,10 +300,6 @@ https://www.staging1.homeproshowcase.com/
 
 http://goldentouch.212development.com/
 
-https://www.staging1.jestersigns.com/
-
-https://staging.ltcrplus.com/login/
-
 http://lighthouse.212development.com
 
 https://ourtown3d.com/stclair/
