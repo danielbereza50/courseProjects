@@ -296,13 +296,13 @@ framework: Divi
 
 https://ourtown3d.com/newbaltimore/
 
+https://ourtown3d.com/stclair/
+
 https://www.staging1.homeproshowcase.com/
 
 http://goldentouch.212development.com/
 
 http://lighthouse.212development.com
-
-https://ourtown3d.com/stclair/
 
 http://innisfail.212development.com/
 
