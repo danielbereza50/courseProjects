@@ -234,7 +234,6 @@ http://acertainwork.org/
 
 
 
-
 <hr>
 
 Company:
@@ -242,8 +241,6 @@ Company:
 4Biz Graphics, LLC
 
 - Team 4Biz
-
-template: Imperion 
 
 http://www.4bizgraphics.com/
 
@@ -253,7 +250,6 @@ Staging Solutions:
 http://www.greatbeginningsdaycarecenter.net/greatbegin/
 
 Deployed Solutions:
-
 
 templates:
 
