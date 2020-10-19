@@ -265,8 +265,6 @@ http://www.laydonindustries.com/
 
 http://www.essexautoclub.org/
 
-Custom Theme:
-
 http://vistapak.04380be.netsolhost.com/
 
 http://vistapak.com/
