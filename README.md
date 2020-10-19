@@ -251,8 +251,6 @@ http://www.greatbeginningsdaycarecenter.net/greatbegin/
 
 Deployed Solutions:
 
-templates:
-
 http://puertovallartausa.com/
 
 * 1 - 2k users a month
