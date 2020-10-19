@@ -286,6 +286,8 @@ Company:
 
 - Team 212
 
+https://jdwebsitedevelopment.com/
+
 https://212creative.com/
 
 https://c56883.sgvps.net:2083/
@@ -318,8 +320,6 @@ http://hangrykits.com/pre-sales-landing-page/
 https://dmtreeservice.com
 
 https://ankenterprises.com/
-
-https://www.jdwebsitedevelopment.com/
 
 https://ltcrplus.com/
 
