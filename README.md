@@ -242,12 +242,12 @@ Company:
 
 - Team 4Biz
 
-http://www.4bizgraphics.com/
+http://4bizgraphics.com/
 
 
 Staging Solutions:
 
-http://www.greatbeginningsdaycarecenter.net/greatbegin/
+http://greatbeginningsdaycarecenter.net/greatbegin/
 
 Deployed Solutions:
 
@@ -259,15 +259,15 @@ https://wolcottct.org/
 
 https://eesc-ct.com/
 
-http://www.foodsafetyconsults.com/
+http://foodsafetyconsults.com/
 
-http://www.laydonindustries.com/
+http://laydonindustries.com/
 
-http://www.essexautoclub.org/
+http://essexautoclub.org/
 
 http://vistapak.com/
 
-https://www.ckmanningmd.com/
+https://ckmanningmd.com/
 
 <hr>
 
