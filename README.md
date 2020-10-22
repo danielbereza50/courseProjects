@@ -261,16 +261,13 @@ https://eesc-ct.com/
 
 http://www.foodsafetyconsults.com/
 
-https://www.ckmanningmd.com/
-
 http://www.laydonindustries.com/
 
 http://www.essexautoclub.org/
 
-http://vistapak.04380be.netsolhost.com/
-
 http://vistapak.com/
 
+https://www.ckmanningmd.com/
 
 <hr>
 
