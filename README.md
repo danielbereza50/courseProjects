@@ -292,7 +292,7 @@ https://ourtown3d.com/newbaltimore/
 
 https://ourtown3d.com/stclair/
 
-https://www.staging1.homeproshowcase.com/
+https://staging1.homeproshowcase.com/
 
 http://goldentouch.212development.com/
 
@@ -313,13 +313,9 @@ https://twinsurance.net/
 
 http://hangrykits.com/pre-sales-landing-page/
 
-https://dmtreeservice.com
-
-https://ankenterprises.com/
+https://dmtreeservice.com/
 
 https://ltcrplus.com/
-
-https://serraspring.com/
 
 https://strictlyvtwin.com/
 
