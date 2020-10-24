@@ -159,6 +159,32 @@ https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
 
 Company:
 
+Go Viral Marketing 
+
+- Team GVM
+
+https://goviralmarketing.com/
+
+Staging Solutions:
+
+http://goviralmarketing.com/supplement-pass/
+
+-
+
+Deployed Solutions:
+
+https://sjfmc.org/
+
+http://transitionallifecounselingandconsultation.com/
+
+http://acertainwork.org/
+
+http://k-beautymicroblading.com/
+
+<hr>
+
+Company:
+
 EDG eAdvertising Solutions
 
 - Team EDG
@@ -204,34 +230,6 @@ https://mistymints.org/
 Custom Online-Order plugin:
 
 https://kismetcafe21784.com/online-order
-
-
-<hr>
-
-Company:
-
-Go Viral Marketing 
-
-- Team GVM
-
-https://goviralmarketing.com/
-
-Staging Solutions:
-
-http://goviralmarketing.com/supplement-pass/
-
--
-
-Deployed Solutions:
-
-https://sjfmc.org/
-
-http://transitionallifecounselingandconsultation.com/
-
-http://k-beautymicroblading.com/
-
-http://acertainwork.org/
-
 
 
 <hr>
