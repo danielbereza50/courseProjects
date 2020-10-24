@@ -165,7 +165,7 @@ EDG eAdvertising Solutions
 
 Fully Secure Connections:
 
-https://www.edgeadvertisingsolutions.com/
+https://edgeadvertisingsolutions.com/
 
 Staging Solutions:
 
@@ -203,7 +203,7 @@ https://mistymints.org/
 
 Custom Online-Order plugin:
 
-https://www.kismetcafe21784.com/online-order
+https://kismetcafe21784.com/online-order
 
 
 <hr>
@@ -224,7 +224,7 @@ http://goviralmarketing.com/supplement-pass/
 
 Deployed Solutions:
 
-https://www.sjfmc.org/
+https://sjfmc.org/
 
 http://transitionallifecounselingandconsultation.com/
 
@@ -283,9 +283,9 @@ https://212creative.com/
 
 https://c56883.sgvps.net:2083/
 
-Staging Solutions:
-
 framework: Divi
+
+Staging Solutions:
 
 https://ourtown3d.com/newbaltimore/
 
