@@ -293,6 +293,8 @@ https://staging1.homeproshowcase.com/
 
 http://goldentouch.212development.com/
 
+https://strictlyvtwin.com/
+
 http://lighthouse.212development.com
 
 http://innisfail.212development.com/
@@ -313,8 +315,6 @@ http://hangrykits.com/pre-sales-landing-page/
 https://dmtreeservice.com/
 
 https://ltcrplus.com/
-
-https://strictlyvtwin.com/
 
 https://mygpea.org/
 
