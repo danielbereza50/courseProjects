@@ -134,8 +134,9 @@ Custom Themes + SEO work via
 9. http://pajhome.org.uk/crypt/md5/
 10. https://whatismyipaddress.com/ - IPv4
 11. https://www.whatismyip.com/ip-address-lookup/
-12. http://beautifytools.com/php-beautifier.php
-13. https://www.freeformatter.com/html-formatter.html
+12. https://stock.adobe.com/
+13. http://beautifytools.com/php-beautifier.php
+14. https://www.freeformatter.com/html-formatter.html
 
 
 Great SEO references:
