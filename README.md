@@ -314,7 +314,7 @@ http://sunshinehouseafc.com/
 
 http://virowhack.212development.com
 
-https://staging.parrotsnaturally.com/grooming/
+https://staging.parrotsnaturally.com/
 
 
 Deployed Solutions:
