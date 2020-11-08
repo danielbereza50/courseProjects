@@ -182,7 +182,6 @@ http://transitionallifecounselingandconsultation.com
 
 http://acertainwork.org
 
-http://k-beautymicroblading.com
 
 <hr>
 
