@@ -194,7 +194,7 @@ EDG eAdvertising Solutions
 
 Fully Secure Connections:
 
-https://edgeadvertisingsolutions.com/
+https://edgeadvertisingsolutions.com
 
 Staging Solutions:
 
@@ -272,7 +272,7 @@ https://ckmanningmd.com
 
 <hr>
 
-http://greatbeginningsdaycarecenter.com/
+http://greatbeginningsdaycarecenter.com
 
 https://greaternewbritainchamber.com/ 
 
@@ -284,11 +284,11 @@ Company:
 
 - Team 212
 
-https://jdwebsitedevelopment.com/
+https://jdwebsitedevelopment.com
 
-https://212creative.com/
+https://212creative.com
 
-https://c56883.sgvps.net:2083/
+https://c56883.sgvps.net:2083
 
 framework: Divi
 
