@@ -234,6 +234,9 @@ Custom Online-Order plugin:
 
 https://kismetcafe21784.com/online-order
 
+<hr>
+
+<hr>
 
 <hr>
 
@@ -274,7 +277,7 @@ https://ckmanningmd.com
 
 http://greatbeginningsdaycarecenter.com
 
-https://greaternewbritainchamber.com/ 
+https://greaternewbritainchamber.com
 
 <hr>
 
