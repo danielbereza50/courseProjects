@@ -114,9 +114,11 @@ For Communication:
 https://slack.com/
 
 
-SVN Repo for published plugins:
+SVN Repos for published plugins:
 
 https://plugins.svn.wordpress.org/
+
+https://gpldl.com/
 
 1. Contract Work I did:
 
