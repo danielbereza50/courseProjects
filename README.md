@@ -172,8 +172,6 @@ Staging Solutions:
 
 http://goviralmarketing.com/supplement-pass
 
--
-
 Deployed Solutions:
 
 https://sjfmc.org
