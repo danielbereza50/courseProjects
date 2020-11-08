@@ -166,23 +166,23 @@ Go Viral Marketing
 
 - Team GVM
 
-https://goviralmarketing.com/
+https://goviralmarketing.com
 
 Staging Solutions:
 
-http://goviralmarketing.com/supplement-pass/
+http://goviralmarketing.com/supplement-pass
 
 -
 
 Deployed Solutions:
 
-https://sjfmc.org/
+https://sjfmc.org
 
-http://transitionallifecounselingandconsultation.com/
+http://transitionallifecounselingandconsultation.com
 
-http://acertainwork.org/
+http://acertainwork.org
 
-http://k-beautymicroblading.com/
+http://k-beautymicroblading.com
 
 <hr>
 
@@ -202,33 +202,33 @@ Staging Solutions:
 
 Deployed Solutions:
 
-https://cfbhgroup.com/
+https://cfbhgroup.com
 
-https://customerfirstconstruction.com/
+https://customerfirstconstruction.com
 
-https://chicremodeling.com/
+https://chicremodeling.com
 
-https://allfinishllc.com/
+https://allfinishllc.com
 
-https://imacscontrols.com/
+https://imacscontrols.com
 
-https://dbtoftowson.com/
+https://dbtoftowson.com
 
-https://fishercustomdesigns.com/
+https://fishercustomdesigns.com
 
-https://silveradoairsystems.com/
+https://silveradoairsystems.com
 
-https://techi-usa.com/
+https://techi-usa.com
 
-https://garrettsmillag.org/
+https://garrettsmillag.org
 
-https://silveradomechanicalservices.com/
+https://silveradomechanicalservices.com
 
-https://threebrothersusa.com/
+https://threebrothersusa.com
 
-https://keystonerolloff.com/
+https://keystonerolloff.com
 
-https://mistymints.org/
+https://mistymints.org
 
 Custom Online-Order plugin:
 
@@ -243,32 +243,32 @@ Company:
 
 - Team 4Biz
 
-http://4bizgraphics.com/
+http://4bizgraphics.com
 
 
 Staging Solutions:
 
-http://greatbeginningsdaycarecenter.net/greatbegin/
+http://greatbeginningsdaycarecenter.net/greatbegin
 
 Deployed Solutions:
 
 * 1 - 2k users a month
 
-http://puertovallartausa.com/  
+http://puertovallartausa.com/ 
 
-https://wolcottct.org/
+https://wolcottct.org
 
-https://eesc-ct.com/
+https://eesc-ct.com
 
-http://foodsafetyconsults.com/
+http://foodsafetyconsults.com
 
-http://laydonindustries.com/
+http://laydonindustries.com
 
-http://essexautoclub.org/
+http://essexautoclub.org
 
-http://vistapak.com/
+http://vistapak.com
 
-https://ckmanningmd.com/
+https://ckmanningmd.com
 
 <hr>
 
@@ -294,60 +294,60 @@ framework: Divi
 
 Staging Solutions:
 
-https://ourtown3d.com/newbaltimore/
+https://ourtown3d.com/newbaltimore
 
-https://ourtown3d.com/stclair/
+https://ourtown3d.com/stclair
 
-https://staging1.homeproshowcase.com/
+https://staging1.homeproshowcase.com
 
-http://goldentouch.212development.com/
+http://goldentouch.212development.com
 
-https://strictlyvtwin.com/
+https://strictlyvtwin.com
 
 http://lighthouse.212development.com
 
-http://innisfail.212development.com/
+http://innisfail.212development.com
 
-http://pdesystems.212development.com/
+http://pdesystems.212development.com
 
-http://mchf.212development.com/
+http://mchf.212development.com
 
-https://alexisabramson.212development.com/
+https://alexisabramson.212development.com
 
-http://sunshinehouseafc.com/
+http://sunshinehouseafc.com
 
 http://virowhack.212development.com
 
-https://staging.parrotsnaturally.com/
+https://staging.parrotsnaturally.com
 
 
 Deployed Solutions:
 
-https://twinsurance.net/
+https://twinsurance.net
 
-http://hangrykits.com/pre-sales-landing-page/
+http://hangrykits.com/pre-sales-landing-page
 
-https://dmtreeservice.com/
+https://dmtreeservice.com
 
-https://ltcrplus.com/
+https://ltcrplus.com
 
-https://mygpea.org/
+https://mygpea.org
 
-https://bowlguard.com/
+https://bowlguard.com
 
-https://jacar-systems.com/
+https://jacar-systems.com
 
 <hr>
 
-https://lighthousebiblenb.com/
+https://lighthousebiblenb.com
 
-https://innisfail.ca/
+https://innisfail.ca
 
-http://pdesystems.com/
+http://pdesystems.com
 
-https://marinecityhealthandfitness.com/
+https://marinecityhealthandfitness.com
 
-https://alexisabramson.com/
+https://alexisabramson.com
 
-https://parrotsnaturally.com/
+https://parrotsnaturally.com
 
