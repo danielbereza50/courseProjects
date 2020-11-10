@@ -5,6 +5,7 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 Thank you for responding so quickly. See attached for the Adobe XD file as well as a reference PDF. 
 Adobe XD does provide a free download if you do not already have this program.
+
 We would like to see what you can put together between now and Wednesday End of Day and our team will review on Thursday.
  
 Some requirements/notes:
