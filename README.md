@@ -114,9 +114,11 @@ For Communication:
 https://slack.com/
 
 
-SVN Repo for published plugins:
+SVN Repos for published plugins:
 
 https://plugins.svn.wordpress.org/
+
+https://gpldl.com/
 
 1. Contract Work I did:
 
@@ -132,6 +134,11 @@ Custom Themes + SEO work via
 7. https://support.google.com/webmasters/answer/6065812
 8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 9. http://pajhome.org.uk/crypt/md5/
+10. https://whatismyipaddress.com/ - IPv4
+11. https://www.whatsmyip.org/
+12. https://stock.adobe.com/
+13. http://beautifytools.com/php-beautifier.php
+14. https://www.freeformatter.com/html-formatter.html
 
 
 Great SEO references:
@@ -155,81 +162,78 @@ https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
 
 Company:
 
-EDG eAdvertising Solutions
+Go Viral Marketing 
 
-- Team EDG
+- Team GVM
 
-Fully Secure Connections:
-
-https://www.edgeadvertisingsolutions.com/
+https://goviralmarketing.com
 
 Staging Solutions:
 
--
+http://goviralmarketing.com/supplement-pass
 
 Deployed Solutions:
 
-https://cfbhgroup.com/
+https://sjfmc.org
 
-https://customerfirstconstruction.com/
+http://transitionallifecounselingandconsultation.com
 
-https://chicremodeling.com/
-
-https://allfinishllc.com/
-
-https://imacscontrols.com/
-
-https://dbtoftowson.com/
-
-https://fishercustomdesigns.com/
-
-https://silveradoairsystems.com/
-
-https://techi-usa.com/
-
-https://garrettsmillag.org/
-
-https://silveradomechanicalservices.com/
-
-https://threebrothersusa.com/
-
-https://keystonerolloff.com/
-
-https://mistymints.org/
-
-Custom Online-Order plugin:
-
-https://www.kismetcafe21784.com/online-order
+http://acertainwork.org
 
 
 <hr>
 
 Company:
 
-Go Viral Marketing 
+EDG eAdvertising Solutions
 
-- Team GVM
+- Team EDG
 
-https://goviralmarketing.com/
+Fully Secure Connections:
+
+https://edgeadvertisingsolutions.com
 
 Staging Solutions:
-
-http://goviralmarketing.com/supplement-pass/
 
 -
 
 Deployed Solutions:
 
-https://www.sjfmc.org/
+https://cfbhgroup.com
 
-http://transitionallifecounselingandconsultation.com/
+https://customerfirstconstruction.com
 
-http://k-beautymicroblading.com/
+https://chicremodeling.com
 
-http://acertainwork.org/
+https://allfinishllc.com
 
+https://imacscontrols.com
 
+https://dbtoftowson.com
 
+https://fishercustomdesigns.com
+
+https://silveradoairsystems.com
+
+https://techi-usa.com
+
+https://garrettsmillag.org
+
+https://silveradomechanicalservices.com
+
+https://threebrothersusa.com
+
+https://keystonerolloff.com
+
+https://mistymints.org
+
+Custom Online-Order plugin:
+
+https://kismetcafe21784.com/online-order
+
+<hr>
+
+<hr>
 
 <hr>
 
@@ -239,44 +243,38 @@ Company:
 
 - Team 4Biz
 
-template: Imperion 
-
-http://www.4bizgraphics.com/
+http://4bizgraphics.com
 
 
 Staging Solutions:
 
--
+http://greatbeginningsdaycarecenter.net/greatbegin
 
 Deployed Solutions:
 
+* 1 - 2k users a month
 
-template: Maestropizzini
+http://puertovallartausa.com
 
-http://puertovallartausa.com/
+https://wolcottct.org
 
-template: City of WP
+https://eesc-ct.com
 
-https://wolcottct.org/
+http://foodsafetyconsults.com
 
-template: CraftBird
+http://laydonindustries.com
 
-http://www.foodsafetyconsults.com/
+http://essexautoclub.org
 
-template: BeDentist
+http://vistapak.com
 
-https://www.ckmanningmd.com/
+https://ckmanningmd.com
 
-template: Kava
+<hr>
 
-child-theme : Manufax
+http://greatbeginningsdaycarecenter.com
 
-http://www.laydonindustries.com/
-
-Custom Theme:
-
-http://vistapak.com/
-
+https://greaternewbritainchamber.com
 
 <hr>
 
@@ -286,31 +284,70 @@ Company:
 
 - Team 212
 
-https://212creative.com/
+https://jdwebsitedevelopment.com
 
-https://c56883.sgvps.net:2083/
+https://212creative.com
 
-Staging Solutions:
+https://c56883.sgvps.net:2083
 
 framework: Divi
 
-https://staging1.212creative.com/
+Staging Solutions:
 
-http://goldentouch.212development.com/
+https://ourtown3d.com/newbaltimore
 
-http://staging2.dmtreeservice.com/
+https://ourtown3d.com/stclair
 
-https://ourtown3d.com/newbaltimore1/
+https://staging1.homeproshowcase.com
+
+http://goldentouch.212development.com
+
+https://strictlyvtwin.com
+
+http://lighthouse.212development.com
+
+http://innisfail.212development.com
+
+http://pdesystems.212development.com
+
+http://mchf.212development.com
+
+https://alexisabramson.212development.com
+
+http://sunshinehouseafc.com
+
+http://virowhack.212development.com
+
+https://staging.parrotsnaturally.com
 
 
 Deployed Solutions:
 
-https://twinsurance.net/
+https://twinsurance.net
 
-http://hangrykits.com/pre-sales-landing-page/
+http://hangrykits.com/pre-sales-landing-page
 
-https://dmtreeservice.com/checkout/
+https://dmtreeservice.com
 
-https://dmtreeservice.com/product/mulch-hardwood-delivery/
+https://ltcrplus.com
 
-https://ankenterprises.com/
+https://mygpea.org
+
+https://bowlguard.com
+
+https://jacar-systems.com
+
+<hr>
+
+https://lighthousebiblenb.com
+
+https://innisfail.ca
+
+http://pdesystems.com
+
+https://marinecityhealthandfitness.com
+
+https://alexisabramson.com
+
+https://parrotsnaturally.com
+
