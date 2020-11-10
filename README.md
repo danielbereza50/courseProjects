@@ -9,7 +9,7 @@ Adobe XD does provide a free download if you do not already have this program.
 We would like to see what you can put together between now and Wednesday End of Day and our team will review on Thursday.
  
 Some requirements/notes:
-We are looking for your overall HTML, CSS and JavaScript (where possible) and troubleshooting abilities. 
+We are looking for your overall HTML, CSS and JavaScript (where possible) and troubleshooting abilities. - DONE
 
 The functionality of search, advanced search, my account, and sign out are not necessary for this build but the elements should be present on the page for design sake where possible - DONE
 
