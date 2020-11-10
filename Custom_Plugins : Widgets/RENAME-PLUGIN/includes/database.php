@@ -10,7 +10,7 @@ class database {
         global $wpdb;
 		
 		// use prepare for cybersecurity
-		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM testblob", $wpdb));
+		$results = $wpdb->get_results($wpdb->prepare("SELECT * FROM testblob"));
 
 if(!empty($results))                        // Checking if $results have some values or not
 {    
@@ -47,6 +47,8 @@ if(!empty($results))                        // Checking if $results have some va
 }	
     }   
 }
+
+
 
 
 

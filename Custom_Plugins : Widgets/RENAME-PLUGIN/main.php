@@ -10,50 +10,49 @@
     License URI: Licence URl
 */
 
-// debugging
-// echo "$variable_name"; WP_DEBUG; var_dump(); print_r(); error_log(); debug_backtrace();
+// include ('includes/class1.php');
+// include ('includes/class1.php');
 
-// Imports
-// include ('includes/class1.php');
-// include ('includes/class1.php');
+
+
+function add_my_css_and_my_js_files(){
+    wp_enqueue_style( 'main.css', plugins_url('/css/main.css', __FILE__), false, '1.0.0', 'all');
+    wp_enqueue_script( 'main_js', plugins_url('/js/functions.js', __FILE__), false, '1.0.0', 'all');
+    }
+    add_action('wp_enqueue_scripts', "add_my_css_and_my_js_files");
+
+
 
 class test
 {
+
     public function __constructor(){
-     // construct stuff here
+     //$this->init();
     }
     
-    public function init($args)
+    public function init()
     {
-    wp_register_style('main_css', plugins_url('css/main.css',__FILE__ ));
-    wp_enqueue_style('main_css');
-    wp_register_script( 'main_js', plugins_url('js/functions.js',__FILE__ ));
-    wp_enqueue_script('main_js');
+      add_shortcode('test', array($this, 'do_something'));
+    
 
     // jQuery
     wp_enqueue_script('jQuery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js' );
-
-    add_shortcode('test', array($this, 'do_something'));  
-
     }// end of init
  
-    public function do_something(){
+    public static function do_something(){
      
     ob_start();
 
-    include('/new-view.php');
+    
+
 
     return ob_get_clean();
-
-        //print_r($test);
-        //echo "$test";
-        return $output;
-}// end of do_something
+    }
 
 }// end of class
 
 $my_plugin = new test();
-$my_plugin -> init();
+$my_plugin->init();
 
 
 /*
