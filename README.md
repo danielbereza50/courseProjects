@@ -3,6 +3,12 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 * GREAT Bootstrap starter template :  https://getbootstrap.com/docs/4.3/getting-started/introduction/ 
 
+Instructions:
+
+1. Download zip archive 
+2. Extract folder
+3. Open admin.html in a web browser
+
 Thank you for responding so quickly. See attached for the Adobe XD file as well as a reference PDF. 
 Adobe XD does provide a free download if you do not already have this program.
 
