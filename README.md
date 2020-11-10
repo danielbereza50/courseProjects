@@ -9,21 +9,21 @@ We would like to see what you can put together between now and Wednesday End of 
 Some requirements/notes:
 We are looking for your overall HTML, CSS and JavaScript (where possible) and troubleshooting abilities. 
 
-The functionality of search, advanced search, my account, and sign out are not necessary for this build but the elements should be present on the page for design sake where possible
+The functionality of search, advanced search, my account, and sign out are not necessary for this build but the elements should be present on the page for design sake where possible - done
 
-There are two pages, only difference is to display the open vs collapsed version of the nav
+There are two pages, only difference is to display the open vs collapsed version of the nav - done
 
-There should be two “status” rows and they should have the ability to scroll left/right 
+There should be two “status” rows and they should have the ability to scroll left/right - done
 
-Looking for the vertical ellipses on at least one card to have a nav pop out (this is optional to include)
+Looking for the vertical ellipses on at least one card to have a nav pop out (this is optional to include) - done
 
-“See All” would display all cards (this is optional to include)
+“See All” would display all cards (this is optional to include) - skipped
 
-You may use the same content/text/icons for each card to simplify the amount of HTML needed here
+You may use the same content/text/icons for each card to simplify the amount of HTML needed here - done
 
-All icons are font awesome
+All icons are font awesome - done
 
-Font is poppins which is a google font found here: https://fonts.google.com/specimen/Poppins
+Font is poppins which is a google font found here: https://fonts.google.com/specimen/Poppins - done
 
 You can share with us a zip file of your code or github where we can view the code. We will test locally on our machines as well as look at the code developed.
  
