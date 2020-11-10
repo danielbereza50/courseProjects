@@ -16,6 +16,8 @@ There are two pages, only difference is to display the open vs collapsed version
 
 There should be two “status” rows and they should have the ability to scroll left/right - DONE
 
+*note the card has to be the currently active card for the ellipses to work
+
 Looking for the vertical ellipses on at least one card to have a nav pop out (this is optional to include) - DONE
 
 “See All” would display all cards (this is optional to include) - SKIPPED
