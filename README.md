@@ -250,6 +250,8 @@ Staging Solutions:
 
 http://greatbeginningsdaycarecenter.net/greatbegin
 
+http://letsmakeitathome.com
+
 Deployed Solutions:
 
 * 1 - 2k users a month
