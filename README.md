@@ -228,8 +228,6 @@ https://keystonerolloff.com
 
 https://mistymints.org
 
-Custom Online-Order plugin:
-
 https://kismetcafe21784.com/online-order
 
 <hr>
