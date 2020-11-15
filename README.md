@@ -193,6 +193,10 @@ EDG eAdvertising Solutions
 
 Fully Secure Connections:
 
+Theme:
+
+paper_lantern
+
 https://edgeadvertisingsolutions.com:2083
 
 Staging Solutions:
@@ -289,6 +293,10 @@ Company:
 https://jdwebsitedevelopment.com
 
 https://212creative.com
+
+Theme:
+
+x3
 
 https://c56883.sgvps.net:2083
 
