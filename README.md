@@ -137,9 +137,10 @@ Custom Themes + SEO work via
 10. https://whatismyipaddress.com/ - IPv4
 11. https://www.whatsmyip.org/
 12. https://stock.adobe.com/
-13. https://tinypng.com/
-14. http://beautifytools.com/php-beautifier.php
-15. https://www.freeformatter.com/html-formatter.html
+13. https://phoenixnap.com/kb/how-to-flush-dns-cache
+14. https://tinypng.com/
+15. http://beautifytools.com/php-beautifier.php
+16. https://www.freeformatter.com/html-formatter.html
 
 
 Great SEO references:
