@@ -270,8 +270,6 @@ http://essexautoclub.org
 
 http://vistapak.com
 
-https://ckmanningmd.com
-
 <hr>
 
 http://greatbeginningsdaycarecenter.com
