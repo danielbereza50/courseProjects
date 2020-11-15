@@ -17,3 +17,9 @@ https://twitter.com/DanielBereza
 https://www.youtube.com/channel/UC_EvRpft1xnCek93bREtoEA?view_as=subscriber
 
 https://my.indeed.com/p/danielb-jgqr24p
+
+https://www.freelancer.com/
+
+https://www.upwork.com/
+
+
