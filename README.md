@@ -308,7 +308,7 @@ https://ourtown3d.com/newbaltimore
 
 https://ourtown3d.com/stclair
 
-https://staging1.homeproshowcase.com/find-a-professional/
+https://staging1.homeproshowcase.com/find-a-professional
 
 http://goldentouch.212development.com
 
