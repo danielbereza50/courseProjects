@@ -3,6 +3,7 @@
 // Data Structures: Array
 // Algorithms: Insertion Sort, Merge Sort
 
+// tested in Wordpress's function.php file
 
 // Parent classes
 abstract class AbstractClass{
