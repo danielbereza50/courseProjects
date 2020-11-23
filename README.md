@@ -318,10 +318,6 @@ http://mchf.212development.com
 
 https://alexisabramson.212development.com
 
-http://sunshinehouseafc.com
-
-http://virowhack.212development.com
-
 https://staging.parrotsnaturally.com
 
 
