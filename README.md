@@ -108,9 +108,6 @@ https://kanbanflow.com/
 
 https://asana.com/
 
-
-For Communication:
-
 https://slack.com/
 
 
