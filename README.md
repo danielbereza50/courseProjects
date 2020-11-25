@@ -282,6 +282,22 @@ https://greaternewbritainchamber.com
 
 Company:
 
+CounselingWise
+
+- Team CounselingWise
+
+https://www.counselingwise.com/
+
+
+Staging Solutions:
+
+Deployed Solutions:
+
+
+<hr>
+
+Company:
+
 212 Creative, LLC 
 
 - Team 212
