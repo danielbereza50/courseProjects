@@ -286,7 +286,7 @@ CounselingWise
 
 - Team CounselingWise
 
-https://www.counselingwise.com/
+https://counselingwise.com/
 
 
 Staging Solutions:
