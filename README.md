@@ -254,6 +254,8 @@ https://bloomfielduc.com/
 
 https://afcurgentcaredanbury.com/
 
+http://www.urgentcarecentersct.com/
+
 Deployed Solutions:
 
 * 1 - 2k users a month
