@@ -253,8 +253,6 @@ https://bloomfielduc.com/
 
 https://afcurgentcaredanbury.com/
 
-http://greatbeginningsdaycarecenter.net/greatbegin
-
 http://www.urgentcarecentersct.com/
 
 Deployed Solutions:
@@ -276,6 +274,8 @@ http://vistapak.com
 http://foodsafetyconsults.com
 
 <hr>
+
+http://greatbeginningsdaycarecenter.net
 
 http://greatbeginningsdaycarecenter.com
 
