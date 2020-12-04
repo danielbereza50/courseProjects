@@ -294,6 +294,8 @@ https://counselingwise.com/
 
 Staging Solutions:
 
+https://bat-pear-b6nj.squarespace.com
+
 Deployed Solutions:
 
 
