@@ -121,24 +121,25 @@ https://gpldl.com/
 
 
 Custom Themes + SEO work via
-1. https://gtmetrix.com/
-2. https://www.syncedlocalmarketing.com/
-3. https://analytics.google.com/analytics/web/
-4. https://drive.google.com/drive/my-drive
-5. https://console.developers.google.com/
-7. how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
-6. https://search.google.com/search-console/welcome
-7. https://support.google.com/webmasters/answer/6065812
-8. https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
-9. http://pajhome.org.uk/crypt/md5/
-10. https://whatismyipaddress.com/ - IPv4
-11. https://www.whatsmyip.org/
-12. https://stock.adobe.com/
-13. https://phoenixnap.com/kb/how-to-flush-dns-cache
-14. https://tinypng.com/
-15. http://beautifytools.com/php-beautifier.php
-16. https://www.freeformatter.com/html-formatter.html
-17. https://www.pdf2go.com/edit-pdf
+* https://gtmetrix.com/
+* https://developers.google.com/speed/pagespeed/insights/
+* https://www.syncedlocalmarketing.com/
+* https://analytics.google.com/analytics/web/
+* https://drive.google.com/drive/my-drive
+* https://console.developers.google.com/
+* how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
+* https://search.google.com/search-console/welcome
+* https://support.google.com/webmasters/answer/6065812
+* https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
+* http://pajhome.org.uk/crypt/md5/
+* https://whatismyipaddress.com/ - IPv4
+* https://www.whatsmyip.org/
+* https://stock.adobe.com/
+* https://phoenixnap.com/kb/how-to-flush-dns-cache
+* https://tinypng.com/
+* http://beautifytools.com/php-beautifier.php
+* https://www.freeformatter.com/html-formatter.html
+* https://www.pdf2go.com/edit-pdf
 
 
 Great SEO references:
