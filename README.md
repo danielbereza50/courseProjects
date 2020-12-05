@@ -273,11 +273,9 @@ http://vistapak.com
 
 http://foodsafetyconsults.com
 
-<hr>
-
-http://greatbeginningsdaycarecenter.net
-
 http://greatbeginningsdaycarecenter.com
+
+<hr>
 
 https://greaternewbritainchamber.com
 
