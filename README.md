@@ -14,6 +14,8 @@ https://twitter.com/DanielBereza
 
 https://www.youtube.com/channel/UC_EvRpft1xnCek93bREtoEA?view_as=subscriber
 
+https://soundcloud.com/daniel-bereza-723395149
+
 <hr>
 
 https://my.indeed.com/p/danielb-jgqr24p
