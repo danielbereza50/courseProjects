@@ -140,6 +140,7 @@ Custom Themes + SEO work via
 * http://beautifytools.com/php-beautifier.php
 * https://www.freeformatter.com/html-formatter.html
 * https://www.pdf2go.com/edit-pdf
+* https://dnschecker.org/
 
 
 Great SEO references:
