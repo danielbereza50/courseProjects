@@ -286,7 +286,7 @@ Company:
 
 CounselingWise
 
-- Team CounselingWise
+- Team Page1Pros
 
 https://counselingwise.com/
 
