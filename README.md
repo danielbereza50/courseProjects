@@ -293,8 +293,6 @@ https://counselingwise.com/
 
 Staging Solutions:
 
-https://bat-pear-b6nj.squarespace.com
-
 https://cwdevel2.com/ouranimalconnection/
 
 https://demo.themestation.net/podcaster-green/
