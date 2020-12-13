@@ -254,7 +254,7 @@ https://bloomfielduc.com
 
 https://afcurgentcaredanbury.com
 
-http://www.urgentcarecentersct.com
+http://urgentcarecentersct.com
 
 Deployed Solutions:
 
@@ -264,15 +264,15 @@ http://puertovallartausa.com
 
 https://wolcottct.org
 
-http://laydonindustries.com
-
-http://essexautoclub.org
-
 https://eesc-ct.com
 
 http://vistapak.com
 
 http://foodsafetyconsults.com
+
+http://laydonindustries.com
+
+http://essexautoclub.org
 
 http://greatbeginningsdaycarecenter.com
 
