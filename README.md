@@ -250,11 +250,11 @@ Staging Solutions:
 
 http://letsmakeitathome.com
 
-https://bloomfielduc.com/
+https://bloomfielduc.com
 
-https://afcurgentcaredanbury.com/
+https://afcurgentcaredanbury.com
 
-http://www.urgentcarecentersct.com/
+http://www.urgentcarecentersct.com
 
 Deployed Solutions:
 
