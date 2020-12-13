@@ -288,18 +288,18 @@ CounselingWise
 
 - Team Page1Pros
 
-https://counselingwise.com/
+https://counselingwise.com
 
 
 Staging Solutions:
 
-https://cwdevel2.com/ouranimalconnection/
+https://cwdevel2.com/ouranimalconnection
 
-https://demo.themestation.net/podcaster-green/
+https://demo.themestation.net/podcaster-green
 
-https://www.therapybloglibrary.com/
+https://therapybloglibrary.com
 
-http://mauihacks.com/
+http://mauihacks.com
 
 Deployed Solutions:
 
