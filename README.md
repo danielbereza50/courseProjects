@@ -297,7 +297,7 @@ https://demo.themestation.net/podcaster-green
 
 https://therapybloglibrary.com
 
-http://mauihacks.com
+https://mauihacks.com
 
 Deployed Solutions:
 
