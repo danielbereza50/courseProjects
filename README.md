@@ -254,7 +254,7 @@ https://bloomfielduc.com
 
 https://afcurgentcaredanbury.com
 
-http://urgentcarecentersct.com
+http://staging.urgentcarecentersct.com/
 
 Deployed Solutions:
 
@@ -275,6 +275,7 @@ http://essexautoclub.org
 http://greatbeginningsdaycarecenter.com
 
 <hr>
+http://urgentcarecentersct.com
 
 https://greaternewbritainchamber.com
 
