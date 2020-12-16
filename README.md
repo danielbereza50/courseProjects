@@ -254,7 +254,9 @@ https://bloomfielduc.com
 
 https://afcurgentcaredanbury.com
 
-http://staging.urgentcarecentersct.com/
+windows hosting: http://staging.urgentcarecentersct.com/
+
+linux hosting: http://s854226310.onlinehome.us/
 
 Deployed Solutions:
 
