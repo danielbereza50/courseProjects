@@ -296,13 +296,14 @@ Staging Solutions:
 
 https://cwdevel2.com/ouranimalconnection
 
+
+Deployed Solutions:
+
 https://therapybloglibrary.com
 
 https://mauihacks.com
 
 https://greenwoodcounselingcenter.com/playroom/
-
-Deployed Solutions:
 
 
 <hr>
