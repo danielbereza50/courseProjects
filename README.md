@@ -324,7 +324,7 @@ framework: Divi
 
 Staging Solutions:
 
-https://staging2.212creative.com/
+https://staging2.212creative.com/test
 
 https://ourtown3d.com/newbaltimore
 
