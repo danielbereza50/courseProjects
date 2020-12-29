@@ -1,30 +1,17 @@
-INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
-VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+UPDATE wp_options SET option_value = replace(option_value, 'http://www.example.com', 'http://localhost/test-site') WHERE option_name = 'home' OR option_name = 'siteurl';
 
-SELECT * FROM Customers
-WHERE CustomerID = 1; 
+UPDATE wp_posts SET post_content = replace(post_content, 'http://www.example.com', 'http://localhost/test-site');
 
-SELECT Orders.OrderID, Customers.CustomerName, Shippers.ShipperName
-FROM ((Orders
-INNER JOIN Customers ON Orders.CustomerID = Customers.CustomerID)
-INNER JOIN Shippers ON Orders.ShipperID = Shippers.ShipperID); 
+UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com','http://localhost/test-site');
 
-
-UPDATE Customers
-SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
-WHERE CustomerID = 1;
-
-
-SP:
-
-CREATE PROCEDURE SelectAllCustomers @City nvarchar(30)
-AS
-SELECT * FROM Customers WHERE City = @City
-GO;
-
-EXEC SelectAllCustomers @City = 'London'; 
-
-
+INSERT INTO 'databasename'.'wp_users' ('ID', 'user_login', 'user_pass') 
+VALUES ('4', 'demo', MD5('demo'));
+ 
+INSERT INTO 'databasename'.'wp_usermeta' ('umeta_id', 'user_id', 'meta_key', 'meta_value') 
+VALUES (NULL, '4', 'wp_capabilities', 'a:1:{s:13:"administrator";s:1:"1";}');
+ 
+INSERT INTO 'databasename'.'wp_usermeta' ('umeta_id', 'user_id', 'meta_key', 'meta_value') 
+VALUES (NULL, '4', 'wp_user_level', '10');
 
 
 
