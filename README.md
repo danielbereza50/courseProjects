@@ -252,12 +252,6 @@ Staging Solutions:
 
 http://letsmakeitathome.com
 
-https://bloomfielduc.com
-
-https://afcurgentcaredanbury.com
-
-windows hosting: http://staging.urgentcarecentersct.com/
-
 linux hosting: http://s854226310.onlinehome.us/
 
 Deployed Solutions:
