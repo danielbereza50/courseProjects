@@ -162,7 +162,6 @@ yourwebsite.com/robots.txt
 Great Article:
 https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
 
-Google Maps API key: AIzaSyC7_oIqPwDf5nSWHcF2ig1vGjVT5nPx5uQ
 
 <hr>
 
