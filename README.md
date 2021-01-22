@@ -251,8 +251,6 @@ http://4bizgraphics.com
 
 Staging Solutions:
 
-http://letsmakeitathome.com
-
 linux hosting: http://s854226310.onlinehome.us/
 
 Deployed Solutions:
