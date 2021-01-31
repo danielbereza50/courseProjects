@@ -346,8 +346,6 @@ https://twinsurance.net
 
 http://hangrykits.com/pre-sales-landing-page
 
-https://dmtreeservice.com
-
 https://ltcrplus.com
 
 https://mygpea.org
