@@ -337,12 +337,6 @@ http://pdesystems.212development.com
 
 https://alexisabramson.212development.com
 
-https://parrots.212development.com
-
-https://parrots.212development.com/shop-categories-test-page
-
-https://staging.parrotsnaturally.com
-
 https://inoacusa.212development.com/
 
 
