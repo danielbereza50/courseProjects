@@ -354,6 +354,10 @@ https://bowlguard.com
 
 https://jacar-systems.com
 
+https://marinecityhealthandfitness.com
+
+https://parrotsnaturally.com
+
 <hr>
 
 https://lighthousebiblenb.com
@@ -362,11 +366,7 @@ https://innisfail.ca
 
 http://pdesystems.com
 
-https://marinecityhealthandfitness.com
-
 https://alexisabramson.com
-
-https://parrotsnaturally.com
 
 https://inoacusa.com/
 
