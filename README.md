@@ -276,8 +276,6 @@ http://greatbeginningsdaycarecenter.com
 <hr>
 http://urgentcarecentersct.com
 
-https://greaternewbritainchamber.com
-
 <hr>
 
 Company:
