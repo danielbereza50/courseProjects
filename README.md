@@ -77,6 +77,9 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 
 https://www.whois.net/
 
+<div>How to get to the bin folder:</div>
+
+<div>https://macpaw.com/how-to/access-bin-folder-mac</div>
 
 <div>WP Core Functions:</div>
 <div>https://developer.wordpress.org/reference/functions/</div>
