@@ -256,7 +256,11 @@ http://4bizgraphics.com
 
 Staging Solutions:
 
-linux hosting: http://s854226310.onlinehome.us/
+http://s854226310.onlinehome.us/
+
+www.snowguards.com
+
+www.alesrenovations.com
 
 Deployed Solutions:
 
