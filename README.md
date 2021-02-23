@@ -293,6 +293,8 @@ CounselingWise
 
 https://login.siteground.com/
 
+https://www.staging.counselingwise.com/
+
 https://counselingwise.com
 
 
@@ -362,7 +364,7 @@ Deployed Solutions:
 
 https://twinsurance.net
 
-http://hangrykits.com/pre-sales-landing-page
+http://hangrykits.com/
 
 https://ltcrplus.com
 
