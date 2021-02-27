@@ -343,8 +343,6 @@ https://staging1.homeproshowcase.com/find-a-professional
 
 http://goldentouch.212development.com
 
-https://strictlyvtwin.com
-
 http://lighthouse.212development.com
 
 http://innisfail.212development.com
@@ -377,6 +375,8 @@ https://jacar-systems.com
 https://marinecityhealthandfitness.com
 
 https://parrotsnaturally.com
+
+https://strictlyvtwin.com
 
 <hr>
 
