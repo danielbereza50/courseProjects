@@ -23,90 +23,15 @@ add_shortcode('my_ajax_load', 'my_taxonomy');
    ?>
 <div class="row load-more-target">
    <?php
-      $_terms_1 = get_terms(array(
-          'materials'
-      ));
-	   
-	    $_terms_2 = get_terms(array(
-          'industry'
-      ));
-	   
-	    $_terms_3 = get_terms(array(
-          'applications'
-      ));
-	   
-	   
-	 $body_css_classes = get_body_class();
-	 //  global $post;
-//echo $post->ID;
-	   //$classes = get_body_class();  
-	 if(in_array('tax-materials', $body_css_classes )):
-	   
-	   foreach ($_terms_1 as $term_1):
-      
-      $term_slug_1 = $term_1->slug;   
+       
 	  $args = array(
        'post_type' => 'solution',
        'orderby'   => 'title',
        'order' => 'ASC',
 	// 'offset' => 2 
        'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' => 'materials',
-                      'field' => 'slug',
-                      'terms' => $term_slug_1,
-                  ) ,
-              ) ,
     );   
 	   
-endforeach;
-	 endif;
-	   
-	   if (in_array('tax-industry', $body_css_classes )) :
-	   
-	    foreach ($_terms_2 as $term_2):
-	   $term_slug_2 = $term_2->slug;   
-	  $args = array(
-       'post_type' => 'solution',
-       'orderby'   => 'title',
-       'order' => 'ASC',
-	// 'offset' => 2 
-       'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' => 'industry',
-                      'field' => 'slug',
-                      'terms' => $term_slug_2,
-                  ) ,
-              ) ,
-    ); 
-	   
-	   endforeach;
-	 endif;
-	   
-if (in_array('tax-applications', $body_css_classes )) :
-	   
-	    foreach ($_terms_3 as $term_3):
-	   $term_slug_3 = $term_3->slug;   
-	  $args = array(
-       'post_type' => 'solution',
-       'orderby'   => 'title',
-       'order' => 'ASC',
-	// 'offset' => 2 
-       'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' => 'applications',
-                      'field' => 'slug',
-                      'terms' => $term_slug_3,
-                  ) ,
-              ) ,
-    ); 
-	   
-	   endforeach;
-	 endif;
-
 //print_r($args);
 	    query_posts($args);
           if (have_posts()):
@@ -158,46 +83,7 @@ if (in_array('tax-applications', $body_css_classes )) :
    // error is here
    $args = json_decode(stripslashes($_POST), true);
 	  // print_r($args);
-	    $_terms_4 = get_terms(array(
-          'materials'
-      ));
 	   
-	    $_terms_5 = get_terms(array(
-          'industry'
-      ));
-	   
-	    $_terms_6 = get_terms(array(
-          'applications'
-      ));
-	   
-	  $body_css_classes_2 = get_body_class();
-	   /* $terms_1 = get_terms("materials"); 
-	   $terms_2 = get_terms("industry"); 
-	   $terms_3 = get_terms("applications"); */
-	  
-	   
-	  /* foreach ( $terms_1 as $term_1 ) { 
-		echo $term_1->name;
-	} 
-	foreach ( $terms_2 as $term_2 ) { 
-		//echo $term_2->name;
-	} 
-foreach ( $terms_3 as $term_3 ) { 
-		//echo $term_3->name;
-	} */
-	
-	   // Polyurethane - Materials
-	   // Transportation - Industry
-	   // Filtering - applications
-	  // print_r($body_css_classes_2);
-	  
-	  // global $post;
-   // $post_slug = $post->post_name;
-	   //print_r($post_slug);
-	   //if (in_array('tax-materials', $body_css_classes_2 )) :
-	      foreach ($_terms_4 as $term_4):
-      
-          $term_slug_4 = $term_4->slug;   
 	$args = array(
 	   'paged' => $_POST['page'] + 1,
        'post_type' => 'solution',
@@ -205,71 +91,8 @@ foreach ( $terms_3 as $term_3 ) {
        'order' => 'ASC',
 	// 'offset' => 2 
        'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' =>'materials',
-                      'field' => 'slug',
-                      'terms' => $term_slug_4,
-                  ) ,
-              ) ,
     );   
 	   
-endforeach;
-	   //else:
-	  // echo 'No Results';
-	   // print_r($args);
-//endif;
-/*
-  // if ($term_2->name == 'Consumer Products') :
-	      foreach ($_terms_5 as $term_5):
-      
-          $term_slug_5 = $term_5->slug;   
-	$args = array(
-	   'paged' => $_POST['page'] + 1,
-       'post_type' => 'solution',
-       'orderby'   => 'title',
-       'order' => 'ASC',
-	// 'offset' => 2 
-       'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' => 'industry',
-                      'field' => 'slug',
-                      'terms' => $term_slug_5,
-                  ) ,
-              ) ,
-    );   
-	   
-endforeach;
-//endif;
-
-	  //  if ($term_3->name == 'Heat & Temperature') :
-	      foreach ($_terms_6 as $term_6):
-      
-          $term_slug_6 = $term_6->slug;   
-	$args = array(
-	   'paged' => $_POST['page'] + 1,
-       'post_type' => 'solution',
-       'orderby'   => 'title',
-       'order' => 'ASC',
-	// 'offset' => 2 
-       'posts_per_page' => 5, 
-	   'tax_query' => array(
-                  array(
-                      'taxonomy' => 'applications',
-                      'field' => 'slug',
-                      'terms' => $term_slug_6,
-                  ) ,
-              ) ,
-    );   
-	   
-endforeach;
-//endif;
-	*/   
-//print_r($args);
-//$body_css_classes = get_body_class();
-	  // print_r($body_css_classes_2);
-// if (in_array('archive', $body_css_classes_2 )) :  
    query_posts($args);
    
    if (have_posts()):
