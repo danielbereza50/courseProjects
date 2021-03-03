@@ -84,7 +84,6 @@ class widget
        if(!(user_can( $current_user, "administrator" ) || user_can( $current_user, "subscriber" ) )) {
       
               ?>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>
         // disable copy/paste
         jQuery(document).ready(function(){
