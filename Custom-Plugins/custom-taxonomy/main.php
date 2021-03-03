@@ -18,7 +18,6 @@ include (__DIR__.'/includes/show-hide.php');
 include (__DIR__.'/includes/taxonomy.php');
 include (__DIR__.'/includes/ajax.php');
 include (__DIR__.'/includes/taxonomy-tiles.php');
-include (__DIR__.'/includes/filter.php');
 
 // create an admin page with the data here
 add_action('admin_menu', 'admin_page_create');

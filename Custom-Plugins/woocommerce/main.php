@@ -32,7 +32,7 @@ class driver
     wp_enqueue_script('main_js');
 
     // jQuery
-    wp_enqueue_script('jQuery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js' );
+    //wp_enqueue_script('jQuery', 'https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js' );
 
     ob_start();
 
