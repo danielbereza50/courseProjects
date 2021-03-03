@@ -135,14 +135,6 @@ class widget
             } // end of if statement for login
      }// end of function
 
-    public function my_callback() {
-        global $post;
-        // post ID for my-posts page
-        if ( $post->ID == 354) {
-             wp_redirect( "https://www.therapybloglibrary.com/browse-articles/", 301 );
-        exit();
-      }
-    }
    public function blog_page() { 
       get_header(); 
     ?>
