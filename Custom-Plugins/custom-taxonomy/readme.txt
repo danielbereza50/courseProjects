@@ -27,6 +27,7 @@ License URI:
 
 1. Upload the plugin in `Plugins > Add New` or FTP into the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
+3. *** This requires the 'Categories Images' plugin ***.
 
 
 == Frequently Asked Questions ==
