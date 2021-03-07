@@ -358,6 +358,8 @@ https://anothercastlegames.212development.com/
 
 http://staging2.skissausage.com/
 
+https://staging3.pickerplace.com/
+
 
 Deployed Solutions:
 
