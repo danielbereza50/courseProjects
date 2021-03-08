@@ -2,7 +2,7 @@
 A portfolio of past projects, build instructions and platforms are specified at the start of each branch in order to ensure proper compilation.  Everything is situated within its proper branch which is accessed through the drop down.
 
 
-mkmdir -  make a new directory
+mkdir -  make a new directory
 
 cat - to view a file's contents
 
