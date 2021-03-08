@@ -75,11 +75,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 <div>The other DNS records are:</div>
 <div>AAAA, CNAME, MX, NS, SOA, and TXT</div>
 
-https://www.whois.net/
-
-<div>How to get to the bin folder:</div>
-
-<div>https://macpaw.com/how-to/access-bin-folder-mac</div>
+https://www.whois.net/]
 
 <div>WP Core Functions:</div>
 <div>https://developer.wordpress.org/reference/functions/</div>
