@@ -12,6 +12,8 @@ nano - edit a file
 
 on a mac do control + X to exit nano
 
+exit - to close the thread
+
 
 How to get to the bin folder:
 
