@@ -4,6 +4,8 @@ A portfolio of past projects, build instructions and platforms are specified at 
 
 mkmdir -  make a new directory
 
+cat - to view a file's contents
+
 cd - change directory
 
 nano - edit a file
