@@ -11,4 +11,8 @@ https://javascriptforwp.com/adding-react-to-a-wordpress-theme-tutorial/
 terminal:
 
 1. cd to the theme's folder
-2. 
+2. run this terminal command npm init from the theme's folder
+3. hit return a couple of times
+4. then npm install @wordpress/scripts --save-dev
+5. wp-scripts start
+...
