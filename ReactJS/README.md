@@ -16,3 +16,9 @@ terminal:
 4. then npm install @wordpress/scripts --save-dev
 5. wp-scripts start
 ...
+
+
+some useful examples: 
+
+https://github.com/zgordon/twentytwenty-react
+https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
