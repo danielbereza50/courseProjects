@@ -344,8 +344,6 @@ http://lighthouse.212development.com
 
 http://pdesystems.212development.com
 
-https://alexis.212development.com
-
 https://inoacusa.212development.com/
 
 https://anothercastlegames.212development.com/
