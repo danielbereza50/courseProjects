@@ -123,13 +123,13 @@ https://gpldl.com/
 
 Custom Themes + SEO work via
 * https://gtmetrix.com/
-* https://developers.google.com/speed/pagespeed/insights/
 * https://www.syncedlocalmarketing.com/
+* https://developers.google.com/speed/pagespeed/insights/
 * https://analytics.google.com/analytics/web/
 * https://drive.google.com/drive/my-drive
 * https://console.developers.google.com/
-* how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
 * https://search.google.com/search-console/welcome
+* how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
 * https://support.google.com/webmasters/answer/6065812
 * https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
 * http://pajhome.org.uk/crypt/md5/
