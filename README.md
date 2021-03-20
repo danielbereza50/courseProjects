@@ -202,8 +202,6 @@ Staging Solutions:
 
 http://edgwebsitepreview1.info
 
-www.thinkbignets.com/reservations
-
 Deployed Solutions:
 
 https://cfbhgroup.com
@@ -233,6 +231,8 @@ https://keystonerolloff.com
 https://mistymints.org
 
 https://kismetcafe21784.com/online-order
+
+https://thinkbignets.com/reservations
 
 <hr>
 
