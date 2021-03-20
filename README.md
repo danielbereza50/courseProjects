@@ -379,11 +379,11 @@ https://lighthousebiblenb.com
 
 http://pdesystems.com
 
-http://www.anothercastlegames.com
+http://anothercastlegames.com
 
 https://inoacusa.com/
 
-https://www.inoac.co.jp/en/solution/
+https://inoac.co.jp/en/solution/
 
 http://skissausage.com/
 
