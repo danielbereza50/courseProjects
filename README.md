@@ -355,8 +355,6 @@ https://twinsurance.net
 
 http://hangrykits.com/
 
-https://ltcrplus.com
-
 https://mygpea.org
 
 https://bowlguard.com
