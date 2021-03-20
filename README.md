@@ -259,8 +259,6 @@ www.alesrenovations.com
 
 Deployed Solutions:
 
-* 1 - 2k users a month
-
 http://puertovallartausa.com
 
 https://wolcottct.org
