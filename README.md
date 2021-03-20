@@ -210,9 +210,7 @@ https://cfbhgroup.com
 
 https://customerfirstconstruction.com
 
-https://www.completehomeimprovementcontractors.com/
-
-https://allfinishllc.com
+https://completehomeimprovementcontractors.com/
 
 https://imacscontrols.com
 
@@ -341,8 +339,6 @@ https://staging1.homeproshowcase.com/find-a-professional
 http://goldentouch.212development.com
 
 http://lighthouse.212development.com
-
-http://pdesystems.212development.com
 
 https://inoacusa.212development.com/
 
