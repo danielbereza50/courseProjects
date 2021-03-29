@@ -63,7 +63,7 @@ function blog_videos($atts)
 function blog_scripts()
 {
     // Register the script
-    wp_register_script('custom-script', '/wp-content/plugins/ajax/includes/js/core.js', array(
+    wp_register_script('custom-script', '/wp-content/plugins/ajax-load-more/includes/js/core.js', array(
         'jquery'
     ) , false, true);
     // Localize the script with new data
