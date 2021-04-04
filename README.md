@@ -125,6 +125,7 @@ Custom Themes + SEO work via
 * https://developers.google.com/speed/pagespeed/insights/
 * https://analytics.google.com/analytics/web/
 * https://search.google.com/search-console/welcome
+* https://www.lambdatest.com/
 * https://www.syncedlocalmarketing.com/
 * https://gtmetrix.com/
 * https://drive.google.com/drive/my-drive
