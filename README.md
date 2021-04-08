@@ -238,8 +238,6 @@ https://dbtoftowson.com
 
 <hr>
 
-<hr>
-
 Company:
 
 4Biz Graphics, LLC
