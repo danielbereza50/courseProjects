@@ -200,7 +200,7 @@ https://edgeadvertisingsolutions.com:2083
 
 Staging Solutions:
 
-http://edgwebsitepreview1.info
+https://edgwebsitepreview.info
 
 Deployed Solutions:
 
