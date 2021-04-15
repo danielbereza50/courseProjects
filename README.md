@@ -146,6 +146,7 @@ Custom Themes + SEO work via
 * https://dnschecker.org/
 * https://passwordsgenerator.net/
 * https://www.download-free-fonts.com/
+* https://bulkresizephotos.com/en
 
 
 Great SEO references:
