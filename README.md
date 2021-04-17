@@ -148,7 +148,7 @@ Custom Themes + SEO work via
 * https://fontsfree.net/
 * https://bulkresizephotos.com/en
 * https://loremipsum.io/
-* https://pdfsimpli.com/
+* https://smallpdf.com/edit-pdf
 
 
 Great SEO references:
