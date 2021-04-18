@@ -28,6 +28,9 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 2. npx create-react-app react-app to create a scaffold from the terminal in the appropriate directory
 3. look at the README file for appropriate commands
 4. npm start to build application to view app in a web browser
+5. Edit src/App.js and save to reload.
+
+
 
 Examples: 
 https://snipcart.com/blog/reactjs-wordpress-rest-api-example
