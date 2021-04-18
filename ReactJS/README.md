@@ -25,7 +25,8 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 
 
 1. NEEDS node.js installed on your local machine
-
+2. npx create-react-app react-app to create a scaffold from the terminal in the appropriate directory
+3. look at the README file for appropriate commands
 
 Examples: 
 https://snipcart.com/blog/reactjs-wordpress-rest-api-example
