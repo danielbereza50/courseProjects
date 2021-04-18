@@ -24,7 +24,7 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 
 
 
-1. NEEDS node.js installed on your local machine
+1. NEEDS node.js installed on your local machine - https://nodejs.org/en/download/
 2. npx create-react-app react-app to create a scaffold from the terminal in the appropriate directory
 3. look at the README file for appropriate commands
 4. npm start to build application to view app in a web browser
