@@ -41,6 +41,8 @@ https://reactjs.org/
 
 https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
 
+https://www.w3schools.com/react/react_components.asp
+
 Components: 
 
 https://reactjs.org/docs/components-and-props.html
