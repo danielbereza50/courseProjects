@@ -47,3 +47,9 @@ Components:
 
 https://reactjs.org/docs/components-and-props.html
 
+
+How to run node.js on cpanel:
+
+https://docs.cpanel.net/knowledge-base/web-services/how-to-install-a-node.js-application/
+
+
