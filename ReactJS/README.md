@@ -29,6 +29,7 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 3. look at the README file for appropriate commands
 4. npm start to build application to view app in a web browser
 5. Edit src/App.js and save to reload.
+6. save individual files and review in the terminal for errors
 
 
 
