@@ -6,8 +6,6 @@ A portfolio of past projects, build instructions and platforms are specified at 
 https://javascriptforwp.com/adding-react-to-a-wordpress-theme-tutorial/
 
 
-
-
 terminal:
 
 1. cd to the theme's folder
@@ -22,5 +20,15 @@ some useful examples:
 
 https://github.com/zgordon/twentytwenty-react
 
-
 https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
+
+
+
+1. NEEDS node.js installed on your local machine
+
+
+Examples: 
+https://snipcart.com/blog/reactjs-wordpress-rest-api-example
+
+https://reactjs.org/
+
