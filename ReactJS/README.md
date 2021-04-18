@@ -30,6 +30,7 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 4. npm start to build application to view app in a web browser - http://localhost:3000/
 5. Edit src/App.js and save to reload.
 6. save individual files and review in the terminal for errors
+7. Go here in the web browser to see output : http://localhost:3000/
 
 
 
