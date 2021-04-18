@@ -39,6 +39,8 @@ https://snipcart.com/blog/reactjs-wordpress-rest-api-example
 
 https://reactjs.org/
 
+https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
+
 Components: 
 
 https://reactjs.org/docs/components-and-props.html
