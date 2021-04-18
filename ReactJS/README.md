@@ -34,7 +34,12 @@ https://github.com/radekzz/wordpress-react-in-theme/tree/master/twentynineteen
 
 
 Examples: 
+
 https://snipcart.com/blog/reactjs-wordpress-rest-api-example
 
 https://reactjs.org/
+
+Components: 
+
+https://reactjs.org/docs/components-and-props.html
 
