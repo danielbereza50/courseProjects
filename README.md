@@ -354,8 +354,6 @@ https://inoacusa.212development.com/
 
 https://anothercastlegames.212development.com/
 
-http://staging2.skissausage.com/
-
 http://lin.212development.com/
 
 
@@ -381,6 +379,8 @@ https://innisfail.ca
 
 https://alexisabramson.com
 
+http://skissausage.com/
+
 <hr>
 
 https://pickerplace.com/
@@ -394,8 +394,6 @@ http://anothercastlegames.com
 https://inoacusa.com/
 
 https://inoac.co.jp/en/solution/
-
-http://skissausage.com/
 
 
 <hr>
