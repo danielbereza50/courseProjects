@@ -356,8 +356,6 @@ http://lin.212development.com/
 
 https://staging11.lin.212development.com/test/
 
-https://staging11.lin.212development.com/
-
 
 Deployed Solutions:
 
