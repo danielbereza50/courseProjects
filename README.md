@@ -152,6 +152,7 @@ Custom Themes + SEO work via
 * https://loremipsum.io/
 * https://smallpdf.com/edit-pdf
 * https://zapier.com/
+* https://vimeo.com/
 
 
 Great SEO references:
