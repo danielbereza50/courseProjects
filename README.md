@@ -349,8 +349,6 @@ https://ourtown3d.com/stclair
 
 https://staging1.homeproshowcase.com/find-a-professional
 
-http://goldentouch.212development.com
-
 http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
@@ -385,6 +383,8 @@ https://innisfail.ca
 https://alexisabramson.com
 
 http://skissausage.com/
+
+https://goldentouchconcierge.com/
 
 <hr>
 
