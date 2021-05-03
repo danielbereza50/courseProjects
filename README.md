@@ -353,8 +353,6 @@ http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
 
-https://anothercastlegames.212development.com/
-
 http://lin.212development.com/
 
 https://staging11.lin.212development.com/test/
