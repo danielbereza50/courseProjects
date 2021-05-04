@@ -13,7 +13,7 @@
 // Imports
 //include (__DIR__.'/includes/another-class.php');
 
-// cd then change the permissions on that directory
+// cd then change the permissions on that python file
 // chmod 777 filename.py or 775
 
 add_shortcode( 'python', 'embed_python' );
