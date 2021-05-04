@@ -1,11 +1,11 @@
 <?php
 /*
-    Plugin Name: Custom code.
-    Plugin URI:  https://counselingwise.com
-    Description: Added on functionality to this astra child theme. 
+    Plugin Name: Python Embed 
+    Plugin URI:  //
+    Description: BareBones template for standard plugin
     Version:     100.0.0
-    Author:      Page 1 Pros
-    Author URI:  https://counselingwise.com
+    Author:      Daniel Bereza 
+    Author URI:  //
     License:     GPL2
     License URI: Licence URl
 */
