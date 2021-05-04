@@ -111,6 +111,8 @@ https://slack.com/
 
 https://activecollab.com/
 
+https://trello.com/en-US
+
 
 SVN Repos for published plugins:
 
@@ -122,13 +124,15 @@ https://gpldl.com/
 
 
 Custom Themes + SEO work via
-* https://gtmetrix.com/
-* https://www.syncedlocalmarketing.com/
 * https://developers.google.com/speed/pagespeed/insights/
 * https://analytics.google.com/analytics/web/
+* https://search.google.com/search-console/welcome
+* https://www.google.com/recaptcha/admin/site/349560113
+* https://www.lambdatest.com/
+* https://www.syncedlocalmarketing.com/
+* https://gtmetrix.com/
 * https://drive.google.com/drive/my-drive
 * https://console.developers.google.com/
-* https://search.google.com/search-console/welcome
 * how to - https://www.cloudways.com/blog/post-smtp-mailer-fork-of-wordpress-postman-smtp-plugin/?id=339490
 * https://support.google.com/webmasters/answer/6065812
 * https://ahrefs.com/blog/why-is-my-website-not-showing-up-on-google/
@@ -143,6 +147,12 @@ Custom Themes + SEO work via
 * https://www.pdf2go.com/edit-pdf
 * https://dnschecker.org/
 * https://passwordsgenerator.net/
+* https://fontsfree.net/
+* https://bulkresizephotos.com/en
+* https://loremipsum.io/
+* https://smallpdf.com/edit-pdf
+* https://zapier.com/
+* https://vimeo.com/
 
 
 Great SEO references:
@@ -199,7 +209,7 @@ https://edgeadvertisingsolutions.com:2083
 
 Staging Solutions:
 
-http://edgwebsitepreview1.info
+https://edgwebsitepreview.info
 
 Deployed Solutions:
 
@@ -210,8 +220,6 @@ https://customerfirstconstruction.com
 https://completehomeimprovementcontractors.com/
 
 https://imacscontrols.com
-
-https://dbtoftowson.com
 
 https://fishercustomdesigns.com
 
@@ -235,7 +243,9 @@ https://thinkbignets.com/reservations
 
 <hr>
 
-<hr>
+https://dbtoftowson.com
+
+https://www.dbtofbaltimore.com/
 
 <hr>
 
@@ -251,6 +261,10 @@ http://4bizgraphics.com
 Staging Solutions:
 
 http://s854226310.onlinehome.us/
+
+https://www.mypetchicken.com/catalog/Baby-Chicks/Blue-Favaucana-p1487.aspx
+
+http://www.canitllc.com/
 
 www.snowguards.com
 
@@ -296,6 +310,8 @@ https://cwdevel2.com/ouranimalconnection
 
 https://cwdevel2.com/olivebranchtherapygroup/
 
+https://cwdevel2.com/clauidawagner/
+
 
 Deployed Solutions:
 
@@ -321,8 +337,6 @@ https://jdwebsitedevelopment.com
 
 https://212creative.com
 
-https://c56883.sgvps.net:2083
-
 https://login.siteground.com
 
 framework: Divi
@@ -335,17 +349,13 @@ https://ourtown3d.com/stclair
 
 https://staging1.homeproshowcase.com/find-a-professional
 
-http://goldentouch.212development.com
-
 http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
 
-https://anothercastlegames.212development.com/
-
-http://staging2.skissausage.com/
-
 http://lin.212development.com/
+
+https://staging11.lin.212development.com/test/
 
 
 Deployed Solutions:
@@ -370,18 +380,26 @@ https://innisfail.ca
 
 https://alexisabramson.com
 
+http://skissausage.com/
+
+https://goldentouchconcierge.com/
+
+https://anothercastlegames.com/
+
 <hr>
+
+https://pickerplace.com/
 
 https://lighthousebiblenb.com
 
 http://pdesystems.com
 
-http://anothercastlegames.com
-
 https://inoacusa.com/
 
 https://inoac.co.jp/en/solution/
 
-http://skissausage.com/
+
+<hr>
+
 
 
