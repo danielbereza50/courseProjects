@@ -1,7 +1,9 @@
-Need a Client Id
+Need a: 
 
-Need a Client Secret
+1. Client Id
 
-Need a Token
+2. Client Secret
 
-Need a library to connect
+3. Token
+
+4. library to connect
