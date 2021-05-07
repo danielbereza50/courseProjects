@@ -9,17 +9,31 @@ CSS transforms:
 
 https://thoughtbot.com/blog/transitions-and-transforms
 
-
+.class:hover{transition: all 1s; transform: scale(2);}
 
 CSS for custom cursor image:
 
-
-body{
-	cursor: url(/wp-content/uploads/2021/05/test-2.png),auto !important;
-}
-
+body{cursor: url(/wp-content/uploads/2021/05/test-2.png),auto !important;}
 
 image size: 34 x 34
+
+
+CSS keyframes:
+
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {top: 0px;}
+  to {top: 200px;}
+}
+
+<div></div>
 
 
 Great logo maker:
