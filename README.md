@@ -319,7 +319,6 @@ https://therapybloglibrary.com
 
 https://mauihacks.com
 
-https://greenwoodcounselingcenter.com/playroom/
 
 <hr>
 
@@ -347,7 +346,7 @@ https://ourtown3d.com/newbaltimore
 
 https://ourtown3d.com/stclair
 
-https://staging1.homeproshowcase.com/find-a-professional
+https://staging1.homeproshowcase.com/
 
 http://lighthouse.212development.com
 
@@ -355,7 +354,7 @@ https://inoacusa.212development.com/
 
 http://lin.212development.com/
 
-https://staging11.lin.212development.com/test/
+https://staging11.lin.212development.com/submit-your-lesson/
 
 
 Deployed Solutions:
