@@ -4,9 +4,11 @@ Great article on modern web design:
 https://www.webfx.com/blog/web-design/modern-web-design/
 
 
-Sticky element on scroll:
 
-https://codepen.io/mkgbri18/pen/RwNOqzv
+CSS transforms: 
+
+https://thoughtbot.com/blog/transitions-and-transforms
+
 
 
 CSS for custom cursor image:
