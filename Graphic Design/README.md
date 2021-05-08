@@ -20,6 +20,8 @@ image size: 34 x 34
 
 CSS keyframes:
 
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_keyframes
+
 div {
   width: 100px;
   height: 100px;
