@@ -391,8 +391,6 @@ https://pickerplace.com/
 
 https://lighthousebiblenb.com
 
-http://pdesystems.com
-
 https://inoacusa.com/
 
 https://inoac.co.jp/en/solution/
