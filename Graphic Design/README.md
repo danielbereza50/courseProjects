@@ -22,11 +22,7 @@ CSS keyframes:
 
 https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_keyframes
 
-div {
-  width: 100px;
-  height: 100px;
-  background: red;
-  position: relative;
+.my_class {
   animation: mymove 5s infinite;
 }
 
@@ -35,7 +31,7 @@ div {
   to {top: 200px;}
 }
 
-<div></div>
+<div class = "my_class"></div>
 
 
 Great logo maker:
