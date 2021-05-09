@@ -144,6 +144,8 @@ Custom Themes + SEO work via
 * https://phoenixnap.com/kb/how-to-flush-dns-cache
 * https://tinypng.com/
 * http://beautifytools.com/php-beautifier.php
+* https://beautifytools.com/scss-compiler.php
+* https://paiza.io/en/projects/new
 * https://www.freeformatter.com/html-formatter.html
 * https://www.pdf2go.com/edit-pdf
 * https://dnschecker.org/
