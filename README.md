@@ -125,6 +125,7 @@ https://gpldl.com/
 
 Custom Themes + SEO work via
 * https://developers.google.com/speed/pagespeed/insights/
+* https://www.seoptimer.com
 * https://analytics.google.com/analytics/web/
 * https://search.google.com/search-console/welcome
 * https://www.google.com/recaptcha/admin/site/349560113
