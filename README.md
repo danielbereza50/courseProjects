@@ -269,13 +269,7 @@ https://www.mypetchicken.com/catalog/Baby-Chicks/Blue-Favaucana-p1487.aspx
 
 http://www.canitllc.com/
 
-www.snowguards.com
-
-www.alesrenovations.com
-
 Deployed Solutions:
-
-http://puertovallartausa.com
 
 https://wolcottct.org
 
