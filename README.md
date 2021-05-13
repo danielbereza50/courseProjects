@@ -345,8 +345,6 @@ https://ourtown3d.com/newbaltimore
 
 https://ourtown3d.com/stclair
 
-https://staging1.homeproshowcase.com/
-
 http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
@@ -383,6 +381,8 @@ http://skissausage.com/
 https://goldentouchconcierge.com/
 
 https://anothercastlegames.com/
+
+https://homeproshowcase.com/
 
 <hr>
 
