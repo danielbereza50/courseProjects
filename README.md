@@ -339,7 +339,7 @@ framework: Divi
 
 Staging Solutions:
 
-http://testsite.212development.com
+http://testsite.212development.com/adapp
 
 https://ourtown3d.com/newbaltimore
 
