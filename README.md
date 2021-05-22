@@ -126,6 +126,7 @@ https://gpldl.com/
 Custom Themes + SEO work via
 * https://developers.google.com/speed/pagespeed/insights/
 * https://www.seoptimer.com
+* https://wave.webaim.org/
 * https://analytics.google.com/analytics/web/
 * https://search.google.com/search-console/welcome
 * https://www.google.com/recaptcha/admin/site/349560113
@@ -156,7 +157,6 @@ Custom Themes + SEO work via
 * https://smallpdf.com/edit-pdf
 * https://zapier.com/
 * https://vimeo.com/
-* https://wave.webaim.org/
 * https://www.bizcardmaker.com/
 
 
