@@ -212,7 +212,7 @@ Fully Secure Connections:
 
 https://edgeadvertisingsolutions.com:2083
 
-https://www.howeyweb.com/web-design-portfolio
+https://www.howeyweb.com
 
 Staging Solutions:
 
