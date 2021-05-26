@@ -355,8 +355,6 @@ http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
 
-http://lin.212development.com/submit-your-lesson/
-
 
 Deployed Solutions:
 
@@ -387,6 +385,8 @@ https://goldentouchconcierge.com/
 https://anothercastlegames.com/
 
 https://homeproshowcase.com/
+
+https://lessonsinanutshell.com/
 
 <hr>
 
