@@ -129,6 +129,7 @@ Custom Themes + SEO work via
 * https://wave.webaim.org/
 * https://analytics.google.com/analytics/web/
 * https://search.google.com/search-console/welcome
+* https://search.google.com/test/mobile-friendly
 * https://www.google.com/recaptcha/admin/site/349560113
 * https://www.lambdatest.com/
 * https://www.syncedlocalmarketing.com/
