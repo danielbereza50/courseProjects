@@ -310,8 +310,6 @@ https://counselingwise.com
 
 Staging Solutions:
 
-https://cwdevel2.com/ouranimalconnection
-
 https://cwdevel2.com/olivebranchtherapygroup/
 
 https://cwdevel2.com/clauidawagner/
@@ -323,6 +321,7 @@ https://therapybloglibrary.com
 
 https://mauihacks.com
 
+https://ouranimalconnection.com/
 
 <hr>
 
