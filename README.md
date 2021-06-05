@@ -355,6 +355,8 @@ http://lighthouse.212development.com
 
 https://inoacusa.212development.com/
 
+https://staging3.pickerplace.com/
+
 
 Deployed Solutions:
 
