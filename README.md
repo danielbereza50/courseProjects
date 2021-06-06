@@ -233,8 +233,6 @@ https://www.howeyweb.com
 
 Staging Solutions:
 
-https://edgwebsitepreview.info
-
 Deployed Solutions:
 
 https://cfbhgroup.com
@@ -267,7 +265,7 @@ https://kismetcafe21784.com/online-order
 
 https://dbtoftowson.com
 
-https://www.dbtofbaltimore.com/
+https://dbtofbaltimore.com/
 
 https://thinkbignets.com/
 
