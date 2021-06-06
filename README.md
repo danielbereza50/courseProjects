@@ -195,6 +195,8 @@ https://login.yahoosmallbusiness.com/login
 
 https://sso.godaddy.com/
 
+https://secure.fatcow.com/secure/login.bml
+
 <hr>
 
 Company:
