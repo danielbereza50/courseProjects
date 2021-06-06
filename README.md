@@ -179,6 +179,22 @@ Great Article:
 https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
 
 
+Common Website hosts:
+
+https://www.networksolutions.com/my-account/account-center/login
+
+https://login.ionos.com/
+
+https://login.siteground.com/users?lang=en
+
+https://id.cpanel.net/
+
+https://cloud.digitalocean.com/login
+
+https://login.yahoosmallbusiness.com/login
+
+https://sso.godaddy.com/
+
 <hr>
 
 Company:
