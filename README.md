@@ -259,7 +259,7 @@ https://keystonerolloff.com
 
 https://mistymints.org
 
-https://www.kismetcafe21784.com/
+https://www.kismetcafe21784.com/home
 
 <hr>
 
@@ -267,7 +267,6 @@ https://dbtoftowson.com
 
 https://dbtofbaltimore.com/
 
-https://www.kismetcafe21784.com/home
 
 <hr>
 
