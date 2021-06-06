@@ -210,12 +210,11 @@ Staging Solutions:
 
 Deployed Solutions:
 
-https://sjfmc.org
-
 http://transitionallifecounselingandconsultation.com
 
-http://acertainwork.org
+https://sjfmc.org
 
+http://acertainwork.org
 
 <hr>
 
@@ -291,13 +290,13 @@ http://www.canitllc.com/
 
 Deployed Solutions:
 
+http://puertovallartausa.net/
+
 https://wolcottct.org
 
 http://vistapak.com
 
 http://foodsafetyconsults.com
-
-http://puertovallartausa.net/
 
 http://laydonindustries.com
 
