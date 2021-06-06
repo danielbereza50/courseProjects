@@ -259,8 +259,6 @@ https://keystonerolloff.com
 
 https://mistymints.org
 
-https://kismetcafe21784.com/online-order
-
 <hr>
 
 https://dbtoftowson.com
