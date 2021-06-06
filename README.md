@@ -189,6 +189,8 @@ https://login.siteground.com/users?lang=en
 
 https://id.cpanel.net/
 
+https://portal.hostgator.com/login
+
 https://cloud.digitalocean.com/login
 
 https://login.yahoosmallbusiness.com/login
@@ -196,6 +198,8 @@ https://login.yahoosmallbusiness.com/login
 https://sso.godaddy.com/
 
 https://secure.fatcow.com/secure/login.bml
+
+https://my.bluehost.com/web-hosting/cplogin
 
 <hr>
 
