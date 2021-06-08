@@ -26,3 +26,4 @@ Google Analytics 4:
 8. maximize site speed
 9. Use multimedia in the page content
 
+If using the WordPress CMS, the Yoast SEO plugin is a good starting point
