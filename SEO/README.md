@@ -2,8 +2,8 @@ Information cited from here: https://backlinko.com/rank-high-on-google
 
 2 very import SEO metrices (Bounce Rate and Session Duration)
 
-1) If Bounce Rate is too high
-2) Session Duration is too low
+1) If Engaged Sessions is too low
+2) If Average Engagement Time is too low
 
 -> Google will drop keyword rankings.
 
