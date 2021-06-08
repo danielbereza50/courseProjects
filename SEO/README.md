@@ -14,8 +14,11 @@ Information cited from here: https://backlinko.com/rank-high-on-google
 3. Use LSI keywords
 4. Publish long content
 5. Optimize title tag for click through rate
+
   a) include a number in the title tags
+  
   b) add brackets and parenthesis 
+  
 6. Use external links
 7. Use internal links
 8. maximize site speed
