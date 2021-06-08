@@ -13,7 +13,7 @@ Google Analytics 4:
 
 1. short urls
 2. include keyword in url
-3. Use LSI keywords
+3. Use LSI keywords - * at the bottom of the search page, the bolded terms.
 4. Publish long content
 5. Optimize title tag for click through rate
 
