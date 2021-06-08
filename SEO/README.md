@@ -2,6 +2,8 @@ Information cited from here: https://backlinko.com/rank-high-on-google
 
 2 very import SEO metrices (Bounce Rate and Session Duration)
 
+Google Analytics 4:
+
 1) If Engaged Sessions is too low
 2) If Average Engagement Time is too low
 
