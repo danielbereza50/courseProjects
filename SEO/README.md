@@ -1,6 +1,6 @@
 Information cited from here: https://backlinko.com/rank-high-on-google
 
-2 very import SEO metrices
+2 very import SEO metrices (Bounce Rate and Session Duration)
 
 1) If Bounce Rate is too high
 2) Session Duration is too low
