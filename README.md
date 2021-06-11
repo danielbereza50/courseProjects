@@ -431,7 +431,7 @@ Company:
 
 Your WordPress Team
 
-- Team YWT
+- Team YWPT
 
 
 https://yourwordpressteam.com/
