@@ -380,6 +380,8 @@ https://inoacusa.212development.com/
 
 https://staging3.pickerplace.com/
 
+https://staging2.goodygreetings.com/
+
 
 Deployed Solutions:
 
