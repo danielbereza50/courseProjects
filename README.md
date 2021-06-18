@@ -75,7 +75,7 @@ UPDATE wp_postmeta SET meta_value = replace(meta_value,'http://www.example.com',
 <div>The other DNS records are:</div>
 <div>AAAA, CNAME, MX, NS, SOA, and TXT</div>
 
-https://www.whois.net/]
+https://digital.com/web-hosting/who-is/
 
 <div>WP Core Functions:</div>
 <div>https://developer.wordpress.org/reference/functions/</div>
