@@ -451,9 +451,6 @@ https://staging.loanhomes.com/
 
 https://ywptserver.com/contactlenses.OG/
 
-https://ywptserver.com/contactlenses.com/
-
-https://ywptserver.com/contactlenses.new/
 
 Deployed Solutions:
 
