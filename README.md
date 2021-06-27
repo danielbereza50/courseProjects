@@ -439,7 +439,7 @@ https://inoac.co.jp/en/solution/
 
 Company:
 
-Your WordPress Team
+Your WordPress Team, LLC
 
 - Team YWPT
 
