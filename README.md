@@ -438,30 +438,3 @@ https://inoac.co.jp/en/solution/
 
 <hr>
 
-
-Company:
-
-Your WordPress Team, LLC
-
-- Team YWPT
-
-https://login.ionos.com/
-
-https://yourwordpressteam.com/
-
-framework: Divi
-
-Staging Solutions:
-
-https://staging.loanhomes.com/
-
-https://ywptserver.com/contactlenses.OG/
-
-
-Deployed Solutions:
-
-<hr>
-
-https://www.contactlens.com/
-
-<hr>
