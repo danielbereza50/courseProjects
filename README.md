@@ -381,8 +381,6 @@ https://ourtown3d.com/newbaltimore
 
 https://ourtown3d.com/stclair
 
-http://lighthouse.212development.com
-
 https://inoacusa.212development.com/
 
 https://staging3.pickerplace.com/
@@ -427,11 +425,11 @@ https://lessonsinanutshell.com/
 
 https://marinecityhealthandfitness.com
 
+https://lighthousebiblenb.com
+
 <hr>
 
 https://pickerplace.com/
-
-https://lighthousebiblenb.com
 
 https://inoacusa.com/
 
