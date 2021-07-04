@@ -160,7 +160,7 @@ Custom Themes + SEO work via
 * https://zapier.com/
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
-
+* https://copilot.github.com/
 
 Great SEO references:
 
