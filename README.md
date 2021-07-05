@@ -298,8 +298,6 @@ Staging Solutions:
 
 http://s854226310.onlinehome.us/
 
-https://www.mypetchicken.com/catalog/Baby-Chicks/Blue-Favaucana-p1487.aspx
-
 http://www.canitllc.com/
 
 Deployed Solutions:
