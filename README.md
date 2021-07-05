@@ -13,7 +13,9 @@ open in Visual Studio
 
 How to view database: https://database.guide/how-to-install-sql-server-on-a-mac/
 
-*My installation is pointing here: https://localhost:5001 Full Stack Engineer (Microsoft Stack 64 bit architecture) - ASP.NET
+*My installation is pointing here: https://localhost:5001 
+
+Full Stack Engineer (Microsoft Stack 64 bit architecture) - ASP.NET
 
 Operating Systems: Mac, Windows, Linux
 
