@@ -209,6 +209,8 @@ https://secure.fatcow.com/secure/login.bml
 
 https://my.bluehost.com/web-hosting/cplogin
 
+https://www.wix.com/
+
 <hr>
 
 Company:
