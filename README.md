@@ -164,8 +164,19 @@ Custom Themes + SEO work via
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
 * https://copilot.github.com/
-* https://www.codabrainy.com/en/python-compiler/
-* https://www.w3schools.com/python/python_classes.asp
+
+JavaScript - client-side
+
+https://1loc.dev/
+
+https://www.tutorialspoint.com/online_javascript_editor.php
+
+Python - server-side
+
+https://www.codabrainy.com/en/python-compiler/
+
+https://www.w3schools.com/python/python_classes.asp
+
 
 Great SEO references:
 
