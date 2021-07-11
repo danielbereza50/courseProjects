@@ -164,6 +164,7 @@ Custom Themes + SEO work via
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
 * https://copilot.github.com/
+* https://meet.google.com/
 
 JavaScript - client-side
 
@@ -190,11 +191,8 @@ yourwebsite.com/page-sitemap.xml
 
 yourwebsite.com/robots.txt
 
-:
-
 Great Article:
 https://medium.com/@rtheunissen/efficient-data-structures-for-php-7-9dda7af674cd
-
 
 Common Website hosts:
 
