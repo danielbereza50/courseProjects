@@ -135,6 +135,7 @@ Custom Themes + SEO work via
 * https://search.google.com/test/mobile-friendly
 * https://www.bing.com/webmasters/
 * https://www.google.com/recaptcha/admin/site/349560113
+* https://meet.google.com/
 * https://www.lambdatest.com/
 * https://www.syncedlocalmarketing.com/
 * https://gtmetrix.com/
@@ -164,7 +165,6 @@ Custom Themes + SEO work via
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
 * https://copilot.github.com/
-* https://meet.google.com/
 
 JavaScript - client-side
 
