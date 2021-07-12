@@ -166,7 +166,7 @@ Custom Themes + SEO work via
 * https://www.bizcardmaker.com/
 * https://copilot.github.com/
 
-JavaScript - client-side
+JavaScript - client-side and server-side
 
 https://1loc.dev/
 
