@@ -400,8 +400,6 @@ https://staging3.pickerplace.com/
 
 https://staging2.goodygreetings.com/
 
-https://delirious-brass.flywheelstaging.com/
-
 https://staging2.presidentiallawncaresolutions.com/
 
 http://staging2.atlessdraincleaning.com/
@@ -447,6 +445,8 @@ https://pickerplace.com/
 https://inoacusa.com/
 
 https://inoac.co.jp/en/solution/
+
+https://hanna.ca/events/
 
 https://atlessdraincleaning.com/
 
