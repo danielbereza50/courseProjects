@@ -165,6 +165,7 @@ Custom Themes + SEO work via
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
 * https://copilot.github.com/
+* https://www.khanacademy.org/computing/computer-programming
 
 JavaScript - client-side and server-side
 
