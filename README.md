@@ -167,6 +167,12 @@ Custom Themes + SEO work via
 * https://copilot.github.com/
 * https://www.khanacademy.org/computing/computer-programming
 
+
+Woocommerce template structure: 
+
+https://docs.woocommerce.com/document/template-structure/
+
+
 JavaScript - client-side and server-side
 
 https://1loc.dev/
