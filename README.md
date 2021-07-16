@@ -164,6 +164,7 @@ Custom Themes + SEO work via
 * https://zapier.com/
 * https://vimeo.com/
 * https://www.bizcardmaker.com/
+* https://www.speedtest.net/
 * https://copilot.github.com/
 * https://www.khanacademy.org/computing/computer-programming
 
