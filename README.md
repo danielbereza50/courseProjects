@@ -28,4 +28,7 @@ https://www.freelancer.com/
 
 https://www.upwork.com/
 
+https://www.fiverr.com/danielbereza50
+
+https://www.alignable.com/new-baltimore-mi/212-creative-llc
 
