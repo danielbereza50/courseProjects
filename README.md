@@ -24,7 +24,7 @@ https://my.indeed.com/p/danielb-jgqr24p
 
 https://www.linkedin.com/in/daniel-bereza/
 
-https://www.freelancer.com/
+https://www.freelancer.com/u/danielbereza50
 
 https://www.upwork.com/
 
