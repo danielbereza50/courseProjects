@@ -20,6 +20,8 @@ https://soundcloud.com/daniel-bereza-723395149
 
 <hr>
 
+Job Boards: 
+
 https://my.indeed.com/p/danielb-jgqr24p
 
 https://www.linkedin.com/in/daniel-bereza/
